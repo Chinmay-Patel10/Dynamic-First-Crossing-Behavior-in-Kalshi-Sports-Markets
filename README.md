@@ -6,3 +6,6 @@ an extremely low probability during the course of a market being traded has pred
 market outcome. The goal is to understand whether low-price crossing is associated with eventual resolution
 outcome and whether this behavior differs across contracts that resolve YES versus NO. In doing so, the
 project evaluates longshot behavior and calibration dynamics at the level of the full price path.
+
+
+API Keys through Kalshi was used to Scrape the Data
