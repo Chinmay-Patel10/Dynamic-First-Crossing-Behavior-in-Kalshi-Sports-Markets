@@ -1,0 +1,619 @@
+ticker,title,resolved_yes,crossed_5pct,cross_time,min_bid,volume_fp,candle_rows,path_rows
+KXNBAPTS-26FEB22ORLLAC-ORLDBANE3-20,Desmond Bane: 20+ points,True,True,0.0,0.0,9179.0,21,21
+KXWOMHOCKEYTOTAL-26FEB20CANFIN-7,Canada vs Finland: Total Goals,False,True,0.0,0.0,18171.0,19,19
+KXWTACHALLENGERMATCH-26FEB17HOSLIU-LIU,Will Claire Liu win the Hosogi vs Liu : Round Of 32 match?,False,False,,0.42,113963.0,16,16
+KXPGATOP20-THGI26-BHAR,Will Brian Harman finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,6374.0,120,120
+KXNBAPTS-26FEB22ORLLAC-LACBMATHURIN9-25,Bennedict Mathurin: 25+ points,False,True,0.0,0.0,10451.0,14,14
+KXDENSUPERLIGAGAME-26FEB22SILFCM-TIE,Silkeborg vs Midtjylland Winner?,False,True,0.0,0.0,7854.0,44,44
+KXPGATOP20-THGI26-PCAN,Will Patrick Cantlay finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,64124.0,139,139
+KXKBLGAME-26FEB180000WONANY-WON,Wonju DB Promy vs Anyang Jungkwanjang Red Boosters Winner?,False,False,,0.09,108978.0,2,2
+KXWOMHOCKEYTOTAL-26FEB21SVKFIN-5,Slovakia vs Finland: Total Goals,True,True,0.0,0.01,21241.0,3,3
+KXWTACHALLENGERMATCH-26FEB18BRESTO-STO,Will Mary Stoiana win the Brengle vs Stoiana : Round Of 16 match?,True,False,,0.55,187161.0,11,11
+KXNBAPTS-26FEB19DENLAC-DENNJOKIC15-20,Nikola Jokić: 20+ points,True,True,0.0,0.0,18103.0,44,44
+KXNBAPTS-26FEB20DENPOR-DENCJOHNSON23-20,Cameron Johnson: 20+ points,False,True,0.0,0.0,7439.0,17,17
+KXNBA3D-26FEB19BOSGSW-GSWDGREEN23,Draymond Green: Triple Double,False,True,0.0,0.0,7980.0,22,22
+KXBBLGAME-26FEB181230OLDULM-ULM,Baskets Oldenburg vs Ulm Basketball Winner?,True,True,0.0,0.01,155707.0,43,43
+KXWOMHOCKEY-26FEB18USASWE-USA,United States vs Sweden Winner?,True,False,,0.68,2662940.0,22,22
+KXWTACHALLENGERMATCH-26FEB23SHYZAV-ZAV,Will Katarina Zavatska win the Shymanovich vs Zavatska : Qualification Final match?,True,False,,0.33,234678.0,12,12
+KXWTACHALLENGERMATCH-26FEB18FERSTE-FER,Will Fiona Ferro win the Ferro vs Stefanini : Round Of 32 match?,True,False,,0.58,223371.0,14,14
+KXALEAGUETOTAL-26FEB17SYDAUC-1,Auckland at Sydney FC: Totals,True,True,0.0,0.01,9505.0,44,44
+KXUFCFIGHT-26FEB21LEADEL-DEL,"Will Yadier Delvalle win the Leavitt vs Delvalle professional MMA fight scheduled for Feb 21, 2026?",False,True,218.0,0.0,240884.0,219,219
+KXNBA3D-26FEB19BKNCLE-CLEJHARDEN1,James Harden: Triple Double,False,True,0.0,0.0,14280.0,19,19
+KXEPLBTTS-26FEB21MCINEW,Newcastle at Manchester City: Both Teams to Score,True,True,0.0,0.0,14626.0,211,211
+KXNBAPTS-26FEB22BOSLAL-LALLJAMES23-20,LeBron James: 20+ points,True,False,,0.23,18117.0,23,23
+KXSCOTTISHPREMGAME-26FEB21ABEDUN-TIE,Aberdeen vs Dundee FC Winner?,False,True,21.0,0.0,9887.0,50,50
+KXPGATOP20-THGI26-HENG,Will Harris English finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,19530.0,141,141
+KXNBAPTS-26FEB22NYKCHI-NYKJHART3-10,Josh Hart: 10+ points,True,True,0.0,0.0,7443.0,19,19
+KXPGATOP20-THGI26-XSCH,Will Xander Schauffele finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,15176.0,126,126
+KXWTACHALLENGERMATCH-26FEB20FREVID-VID,Will Darja Vidmanova win the Frey vs Vidmanova : Quarterfinal match?,True,False,,0.8,257370.0,13,13
+KXPGATOP20-THGI26-ARAI,Will Aaron Rai finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,13131.0,137,137
+KXNBA3D-26FEB22ORLLAC-ORLPBANCHERO5,Paolo Banchero: Triple Double,False,True,0.0,0.0,6564.0,23,23
+KXPGATOP20-THGI26-JSPI,Will Jordan Spieth finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,34942.0,133,133
+KXNBA3D-26FEB20CLECHA-CLEJHARDEN1,James Harden: Triple Double,False,True,0.0,0.0,10369.0,18,18
+KXWOMHOCKEYTOTAL-26FEB18USASWE-3,United States vs Sweden: Total Goals,False,True,0.0,0.01,93997.0,13,13
+KXWOMHOCKEY-26FEB20CANFIN-FIN,Canada vs Finland Winner?,False,True,0.0,0.01,1639554.0,40,40
+KXPGATOP20-THGI26-WCLA,Will Wyndham Clark finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,15769.0,131,131
+KXNBAPTS-26FEB20LACLAL-LACKLEONARD2-30,Kawhi Leonard: 30+ points,True,True,0.0,0.0,5296.0,21,21
+KXNBA3D-26FEB22CLEOKC-OKCIHARTENSTEIN55,Isaiah Hartenstein: Triple Double,False,True,0.0,0.0,7780.0,17,17
+KXWOMHOCKEYTOTAL-26FEB21SVKFIN-4,Slovakia vs Finland: Total Goals,True,True,0.0,0.01,7657.0,3,3
+KXDENSUPERLIGAGAME-26FEB23BROSON-TIE,Broendby vs Soenderjyske Winner?,True,False,,0.2,86757.0,69,69
+KXWTACHALLENGERMATCH-26FEB18AKLQUE-AKL,Will Ayana Akli win the Akli vs Quevedo : Round Of 16 match?,False,False,,0.05,26092.0,13,13
+KXPGATOP20-THGI26-MLEE,Will Min Woo Lee finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,33417.0,141,141
+KXUFCVICROUND-26FEB21STRHER-STR1,Will Sean Strickland win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 1,False,True,0.0,0.0,43948.0,35,35
+KXNBAPTS-26FEB22ORLLAC-LACBMATHURIN9-30,Bennedict Mathurin: 30+ points,False,True,0.0,0.0,5929.0,14,14
+KXWTACHALLENGERMATCH-26FEB19TANKOR-TAN,Will Harmony Tan win the Tan vs Korneeva : Round Of 16 match?,False,True,7.0,0.0,113789.0,13,13
+KXWOMHOCKEYTOTAL-26FEB20CANFIN-6,Canada vs Finland: Total Goals,False,True,0.0,0.0,20156.0,18,18
+KXWTACHALLENGERMATCH-26FEB21GOLKOS-KOS,Will Teodora Kostovic win the Golubic vs Kostovic : Semifinal match?,False,False,,0.25,588834.0,14,14
+KXNBAPTS-26FEB22BOSLAL-LALLDONCIC77-40,Luka Dončić: 40+ points,False,True,0.0,0.0,6332.0,21,21
+KXWTACHALLENGERMATCH-26FEB22GOLSNI-SNI,Will Daria Snigur win the Golubic vs Snigur : Final match?,True,False,,0.65,96199.0,13,13
+KXWOMHOCKEYTOTAL-26FEB20CANFIN-4,Canada vs Finland: Total Goals,True,True,0.0,0.01,36319.0,18,18
+KXNBA2D-26FEB21HOUNYK-NYKKTOWNS32,Karl-Anthony Towns: Double Double,False,True,22.0,0.0,5277.0,25,25
+KXPGATOP20-THGI26-HMAT,Will Hideki Matsuyama finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,59846.0,139,139
+KXWOMHOCKEYTOTAL-26FEB17DEUFRA-6,Germany vs France: Total Goals,False,True,0.0,0.0,40608.0,20,20
+KXUFCVICROUND-26FEB21STRHER-STR3,Will Sean Strickland win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 3,True,True,0.0,0.01,37324.0,40,40
+KXDENSUPERLIGAGAME-26FEB22RANFRE-TIE,Randers vs Fredericia Winner?,False,True,0.0,0.0,14811.0,47,47
+KXSCOTTISHPREMGAME-26FEB21HOMFAL-FAL,Heart of Midlothian vs Falkirk Winner?,False,True,49.0,0.0,6410.0,50,50
+KXPGATOP20-COCITPB26-JBRI,Cognizant Classic in The Palm Beaches: Will Jacob Bridgeman finish top 20?,False,True,0.0,0.0,13530.0,1,1
+KXWTACHALLENGERMATCH-26FEB17SHYPAR-PAR,Will Nuria Parrizas Diaz win the Shymanovich vs Parrizas Diaz : Round Of 32 match?,False,True,17.0,0.0,180456.0,18,18
+KXPGATOP20-COCITPB26-BGRI,Cognizant Classic in The Palm Beaches: Will Ben Griffin finish top 20?,False,True,0.0,0.0,262299.0,1,1
+KXWOMHOCKEY-26FEB18SVKDEU-SVK,Slovakia vs Germany Winner?,True,False,,0.45,76754.0,13,13
+KXNBAPTS-26FEB22NYKCHI-CHIJGIDDEY3-15,Josh Giddey: 15+ points,False,True,19.0,0.0,5801.0,22,22
+KXWOMHOCKEYTOTAL-26FEB20USASVK-3,United States vs Slovakia: Total Goals,True,True,0.0,0.01,8661.0,17,17
+KXWTACHALLENGERMATCH-26FEB17MINROS-MIN,Will Greet Minnen win the Minnen vs Rosatello : Round Of 32 match?,False,False,,0.54,194216.0,13,13
+KXPGATOP20-THGI26-SBUR,Will Sam Burns finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,12665.0,95,95
+KXNBAPTS-26FEB20LACLAL-LALLJAMES23-15,LeBron James: 15+ points,False,True,0.0,0.0,5052.0,22,22
+KXNBA2D-26FEB19BOSGSW-BOSNVUCEVIC4,Nikola Vučević: Double Double,False,True,46.0,0.0,6388.0,48,48
+KXALEAGUETOTAL-26FEB17SYDAUC-2,Auckland at Sydney FC: Totals,False,True,0.0,0.0,17882.0,63,63
+KXPGATOP20-THGI26-CCON,Will Corey Conners finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,11675.0,130,130
+KXWTACHALLENGERMATCH-26FEB22CIRZAV-ZAV,Will Katarina Zavatska win the Cirpanli vs Zavatska : Qualification match?,True,True,0.0,0.04,16767.0,14,14
+KXWTACHALLENGERMATCH-26FEB17SISPON-PON,Will Jessika Ponchet win the Siskova vs Ponchet : Round Of 32 match?,False,False,,0.09,36309.0,14,14
+KXNBAPTS-26FEB19DENLAC-LACKLEONARD2-30,Kawhi Leonard: 30+ points,False,True,0.0,0.0,7206.0,40,40
+KXPGATOP20-THGI26-MMCG,Will Max McGreevy finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,6531.0,72,72
+KXWTACHALLENGERMATCH-26FEB18COSLEW-COS,Will Sofia Costoulas win the Costoulas vs Lew Yan Foon : Round Of 16 match?,True,False,,0.73,17168.0,13,13
+KXWTACHALLENGERMATCH-26FEB18VOLLAM-LAM,Will Suzan Lamens win the Voloshchuk vs Lamens : Round Of 16 match?,True,False,,0.73,45697.0,13,13
+KXNBAPTS-26FEB19DENLAC-LACKLEONARD2-25,Kawhi Leonard: 25+ points,False,True,0.0,0.0,12127.0,36,36
+KXALEAGUETOTAL-26FEB17SYDAUC-3,Auckland at Sydney FC: Totals,False,True,0.0,0.0,11528.0,39,39
+KXPGATOP20-THGI26-CAME,Will Cameron Young finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,17673.0,141,141
+KXPGATOP20-THGI26-BGRI,Will Ben Griffin finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,8899.0,119,119
+KXWTACHALLENGERMATCH-26FEB17MANJOR-MAN,Will Yasmine Mansouri win the Mansouri vs Jorge : Round Of 32 match?,False,False,,0.17,282555.0,14,14
+KXPGATOP20-THGI26-APOT,Will Aldrich Potgieter finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,73581.0,126,126
+KXNBAPTS-26FEB22CHAWAS-CHALBALL1-20,LaMelo Ball: 20+ points,True,True,0.0,0.0,10012.0,18,18
+KXUFCFIGHT-26FEB21ROWLEB-ROW,"Will Phil Rowe win the Rowe vs Lebosnoyani professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.24,215310.0,111,111
+KXATPSETWINNER-26FEB20TIETIA-1-TIE,Will Learner Tien win set 1 in the Learner Tien vs Frances Tiafoe match,True,True,0.0,0.0,21452.0,14,14
+KXWTACHALLENGERMATCH-26FEB21FERLAZ-FER,Will Fiona Ferro win the Ferro vs Lazaro Garcia : Semifinal match?,False,False,,0.33,204773.0,13,13
+KXPGATOP20-THGI26-JBRI,Will Jacob Bridgeman finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,30743.0,128,128
+KXBBLGAME-26FEB191300MBCLUD-MBC,Mitteldeutscher BC vs Riesen Ludwigsburg Winner?,False,True,0.0,0.0,84702.0,34,34
+KXDENSUPERLIGAGAME-26FEB22SILFCM-FCM,Silkeborg vs Midtjylland Winner?,True,True,0.0,0.02,25794.0,50,50
+KXWTACHALLENGERMATCH-26FEB18SAWVID-VID,Will Darja Vidmanova win the Sawashiro vs Vidmanova : Round Of 32 match?,True,False,,0.82,9260.0,12,12
+KXUFCVICROUND-26FEB21STRHER-STR2,Will Sean Strickland win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 2,False,True,0.0,0.0,54755.0,47,47
+KXPGATOP20-THGI26-DBER,Will Daniel Berger finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,14407.0,87,87
+KXWOMHOCKEYTOTAL-26FEB20CANFIN-5,Canada vs Finland: Total Goals,False,True,19.0,0.03,185300.0,20,20
+KXWTACHALLENGERMATCH-26FEB22YAMSPI-SPI,Will Dalila Spiteri win the Yamazaki vs Spiteri : Qualification match?,True,True,0.0,0.04,29905.0,13,13
+KXWTACHALLENGERMATCH-26FEB17BROLAZ-BRO,Will Lucia Bronzetti win the Bronzetti vs Lazaro Garcia : Round Of 32 match?,False,False,,0.23,110854.0,13,13
+KXSCOTTISHPREMGAME-26FEB21HOMFAL-HOM,Heart of Midlothian vs Falkirk Winner?,True,False,,0.53,17877.0,52,52
+KXEPLBTTS-26FEB23EVEMUN,Manchester United at Everton: Both Teams to Score,False,True,22.0,0.0,42729.0,204,204
+KXWOMHOCKEYTOTAL-26FEB18USASWE-4,United States vs Sweden: Total Goals,False,True,0.0,0.01,43328.0,17,17
+KXWOMHOCKEYTOTAL-26FEB17CZEDNK-4,Czechia vs Denmark: Total Goals,True,True,0.0,0.01,8586.0,18,18
+KXWTACHALLENGERMATCH-26FEB17SEMBOL-SEM,Will Darja Semenistaja win the Semenistaja vs Bolsova : Round Of 32 match?,False,False,,0.31,91862.0,12,12
+KXWTACHALLENGERMATCH-26FEB23TOTSPI-SPI,Will Dalila Spiteri win the Toth vs Spiteri : Qualification Final match?,True,False,,0.31,169002.0,14,14
+KXNBAPTS-26FEB22DENGSW-DENNJOKIC15-40,Nikola Jokić: 40+ points,False,True,0.0,0.0,5787.0,16,16
+KXWTACHALLENGERMATCH-26FEB19MLAFER-FER,Will Fiona Ferro win the Mladenovic vs Ferro : Round Of 16 match?,True,False,,0.78,70832.0,12,12
+KXWOMHOCKEYTOTAL-26FEB20USASVK-6,United States vs Slovakia: Total Goals,True,False,,0.09,183675.0,24,24
+KXNBAPTS-26FEB21HOUNYK-NYKOANUNOBY8-15,OG Anunoby: 15+ points,True,False,,0.44,6706.0,25,25
+KXPGATOP20-THGI26-RHEN,Will Russell Henley finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,7496.0,80,80
+KXWTACHALLENGERMATCH-26FEB20TOMLAM-TOM,Will Viktoriya Tomova win the Tomova vs Lamens : Quarterfinal match?,False,False,,0.05,396572.0,13,13
+KXWTACHALLENGERMATCH-26FEB19MLAFER-MLA,Will Kristina Mladenovic win the Mladenovic vs Ferro : Round Of 16 match?,False,True,11.0,0.04,145152.0,12,12
+KXNBAPTS-26FEB22BOSLAL-BOSJBROWN7-30,Jaylen Brown: 30+ points,True,True,0.0,0.0,22395.0,23,23
+KXNBAPTS-26FEB22BOSLAL-BOSJBROWN7-25,Jaylen Brown: 25+ points,True,True,0.0,0.0,10924.0,22,22
+KXUFCFIGHT-26FEB21SMIHAR-SMI,"Will Jacobe Smith win the Smith vs Harrell professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.66,503721.0,112,112
+KXPGATOP20-THGI26-SLOW,Will Shane Lowry finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,16589.0,133,133
+KXNBA2D-26FEB20LACLAL-LALLJAMES23,LeBron James: Double Double,True,True,0.0,0.02,7245.0,22,22
+KXPGATOP20-THGI26-CMOR,Will Collin Morikawa finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,62526.0,142,142
+KXWTACHALLENGERMATCH-26FEB20BARSAL-SAL,Will Dominika Salkova win the Barthel vs Salkova : Quarterfinal match?,True,False,,0.23,438962.0,13,13
+KXWOMHOCKEYTOTAL-26FEB20USASVK-7,United States vs Slovakia: Total Goals,True,True,0.0,0.01,63215.0,20,20
+KXPGATOP20-THGI26-RMAC,Will Robert MacIntyre finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,16961.0,131,131
+KXUELSPREAD-26FEB19DINGEN-DIN1,Dinamo Zagreb wins by over 1.5 goals?,False,True,1.0,0.0,6454.0,2,2
+KXUFCFIGHT-26FEB21NEAMED-MED,"Will Uros Medic win the Neal vs Medic professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.27,706885.0,118,118
+KXWOMHOCKEYTOTAL-26FEB17CZEDNK-5,Czechia vs Denmark: Total Goals,False,True,0.0,0.01,47368.0,22,22
+KXWOMHOCKEYTOTAL-26FEB18USASWE-5,United States vs Sweden: Total Goals,False,True,0.0,0.02,72903.0,21,21
+KXWTACHALLENGERMATCH-26FEB18SEBCRO-CRO,Will Kayla Cross win the Sebov vs Cross : Round Of 16 match?,False,False,,0.2,92441.0,10,10
+KXUFCFIGHT-26FEB21ROWLEB-LEB,"Will Jean-Paul Lebosnoyani win the Rowe vs Lebosnoyani professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.56,272326.0,101,101
+KXBUNDESLIGABTTS-26FEB20M05HSV,Hamburg at Mainz: Both Teams to Score,True,True,0.0,0.01,15583.0,110,110
+KXWTACHALLENGERMATCH-26FEB22GUOCHA-GUO,Will Hanyu Guo win the Guo vs Charaeva : Final match?,False,False,,0.21,231265.0,14,14
+KXWOMHOCKEYTOTAL-26FEB17SWELVA-6,Sweden vs Latvia: Total Goals,False,False,,0.36,88676.0,26,26
+KXUFCFIGHT-26FEB21IGECOS-IGE,"Will Dan Ige win the Ige vs Costa professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.06,851869.0,240,240
+KXWTACHALLENGERMATCH-26FEB18SISSAL-SIS,Will Anna Siskova win the Siskova vs Salkova : Round Of 16 match?,False,False,,0.2,127381.0,12,12
+KXKBLGAME-26FEB190500THUGOY-THU,Samsung Thunders vs Goyang Skygunners Winner?,False,True,0.0,0.0,61560.0,25,25
+KXWTACHALLENGERMATCH-26FEB22SHYGLU-GLU,Will Denislava Glushkova win the Shymanovich vs Glushkova : Qualification match?,False,False,,0.09,51703.0,14,14
+KXNBAPTS-26FEB21PHINOP-NOPZWILLIAMSON1-25,Zion Williamson: 25+ points,False,True,0.0,0.0,6549.0,16,16
+KXNBAPTS-26FEB22ORLLAC-ORLDBANE3-25,Desmond Bane: 25+ points,True,True,0.0,0.0,6960.0,22,22
+KXWTACHALLENGERMATCH-26FEB19KOEKOS-KOS,Will Teodora Kostovic win the Koevermans vs Kostovic : Round Of 16 match?,True,False,,0.38,140334.0,12,12
+KXNBAPTS-26FEB22PHIMIN-MINAEDWARDS5-30,Anthony Edwards: 30+ points,False,False,,0.42,10482.0,19,19
+KXWOMHOCKEY-26FEB20USASVK-SVK,United States vs Slovakia Winner?,False,True,0.0,0.0,1519236.0,44,44
+KXUFCVICROUND-26FEB21STRHER-STR5,Will Sean Strickland win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 5,False,True,0.0,0.0,48253.0,36,36
+KXSCOTTISHPREMGAME-26FEB22LIVRFC-RFC,Livingston vs Rangers Winner?,False,True,0.0,0.0,199449.0,54,54
+KXWTACHALLENGERMATCH-26FEB20CHAHIB-CHA,Will Alina Charaeva win the Charaeva vs Hibino : Quarterfinal match?,True,False,,0.43,131274.0,14,14
+KXWTACHALLENGERMATCH-26FEB20KALGUO-GUO,Will Hanyu Guo win the Kalieva vs Guo : Quarterfinal match?,True,False,,0.05,437043.0,14,14
+KXNBAPTS-26FEB22ORLLAC-LACBMATHURIN9-20,Bennedict Mathurin: 20+ points,True,True,0.0,0.0,19264.0,14,14
+KXWTACHALLENGERMATCH-26FEB19SHYKRA-KRA,Will Sinja Kraus win the Shymanovich vs Kraus : Round Of 16 match?,True,False,,0.62,56109.0,11,11
+KXNBAPTS-26FEB19DENLAC-DENNJOKIC15-25,Nikola Jokić: 25+ points,False,True,0.0,0.0,23317.0,38,38
+KXWTACHALLENGERMATCH-26FEB18AKLQUE-QUE,Will Kaitlin Quevedo win the Akli vs Quevedo : Round Of 16 match?,True,False,,0.74,9825.0,13,13
+KXWTACHALLENGERMATCH-26FEB20BARSAL-BAR,Will Mona Barthel win the Barthel vs Salkova : Quarterfinal match?,False,False,,0.45,212703.0,12,12
+KXWTACHALLENGERMATCH-26FEB20KOSJOR-JOR,Will Francisca Jorge win the Kostovic vs Jorge : Quarterfinal match?,False,False,,0.17,427230.0,13,13
+KXWOMHOCKEYTOTAL-26FEB18USASWE-7,United States vs Sweden: Total Goals,False,True,0.0,0.0,18482.0,16,16
+KXWOMHOCKEYTOTAL-26FEB17CZEDNK-7,Czechia vs Denmark: Total Goals,False,True,0.0,0.01,9445.0,11,11
+KXPGATOP20-THGI26-TPEN,Will Taylor Pendrith finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,10450.0,109,109
+KXNBAPTS-26FEB21SACSAS-SACDDEROZAN10-20,DeMar DeRozan: 20+ points,True,True,0.0,0.0,6227.0,17,17
+KXPGATOP20-THGI26-RMCI,Will Rory McIlroy finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,62593.0,131,131
+KXWTACHALLENGERMATCH-26FEB21LAMSNI-SNI,Will Daria Snigur win the Lamens vs Snigur : Semifinal match?,True,False,,0.71,276672.0,13,13
+KXWOMHOCKEYTOTAL-26FEB20USASVK-5,United States vs Slovakia: Total Goals,True,False,,0.48,265959.0,24,24
+KXWTACHALLENGERMATCH-26FEB17SHYPAR-SHY,Will Iryna Shymanovich win the Shymanovich vs Parrizas Diaz : Round Of 32 match?,True,False,,0.37,191076.0,18,18
+KXNBA3D-26FEB21HOUNYK-NYKJHART3,Josh Hart: Triple Double,False,True,0.0,0.0,11949.0,26,26
+KXPGATOP20-THGI26-TKIM,Will Tom Kim finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,22173.0,118,118
+KXWTACHALLENGERMATCH-26FEB19TANKOR-KOR,Will Alina Korneeva win the Tan vs Korneeva : Round Of 16 match?,True,False,,0.78,51849.0,13,13
+KXNBAPTS-26FEB21HOUNYK-HOUKDURANT7-25,Kevin Durant: 25+ points,True,False,,0.21,25664.0,24,24
+KXNBAPTS-26FEB22CLEOKC-CLEJALLEN31-15,Jarrett Allen: 15+ points,False,True,0.0,0.0,9742.0,16,16
+KXNBAPTS-26FEB22BOSLAL-LALLJAMES23-25,LeBron James: 25+ points,False,True,0.0,0.0,9011.0,22,22
+KXSCOTTISHPREMGAME-26FEB21DUUKIL-KIL,Dundee United vs Kilmarnock Winner?,False,True,18.0,0.0,9167.0,49,49
+KXNBA2D-26FEB22ORLLAC-LACBLOPEZ11,Brook Lopez: Double Double,False,True,9.0,0.0,5197.0,23,23
+KXWOMHOCKEYTOTAL-26FEB18CANCZE-8,Canada vs Czechia: Total Goals,False,True,0.0,0.0,21441.0,10,10
+KXWOMHOCKEYTOTAL-26FEB20USASVK-4,United States vs Slovakia: Total Goals,True,True,0.0,0.01,32490.0,19,19
+KXDENSUPERLIGAGAME-26FEB21OBKFCC-FCC,Odense vs Copenhagen Winner?,False,True,4.0,0.0,49358.0,47,47
+KXUELSPREAD-26FEB19FENNFO-NFO1,Nottingham wins by over 1.5 goals?,True,False,,0.16,7064.0,2,2
+KXWOMHOCKEYTOTAL-26FEB17CZEDNK-6,Czechia vs Denmark: Total Goals,False,True,0.0,0.01,33654.0,20,20
+KXWOMHOCKEYTOTAL-26FEB18USASWE-6,United States vs Sweden: Total Goals,False,True,0.0,0.02,78135.0,21,21
+KXWTACHALLENGERMATCH-26FEB17GUOCHI-CHI,Will Louisa Chirico win the Guo vs Chirico : Round Of 32 match?,False,False,,0.06,402913.0,14,14
+KXNBAPTS-26FEB20LACLAL-LACKLEONARD2-35,Kawhi Leonard: 35+ points,False,True,0.0,0.0,5725.0,18,18
+KXWTACHALLENGERMATCH-26FEB21GOLKOS-GOL,Will Viktorija Golubic win the Golubic vs Kostovic : Semifinal match?,True,False,,0.57,608146.0,14,14
+KXWOMHOCKEY-26FEB18FINCHE-FIN,Finland vs Switzerland Winner?,True,False,,0.11,611341.0,19,19
+KXWOMHOCKEYTOTAL-26FEB17SWELVA-5,Sweden vs Latvia: Total Goals,True,True,0.0,0.0,35304.0,16,16
+KXNBA2D-26FEB22BOSLAL-LALLDONCIC77,Luka Dončić: Double Double,False,True,0.0,0.0,8993.0,24,24
+KXPGATOP20-THGI26-STHE,Will Sahith Theegala finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,16597.0,129,129
+KXWTACHALLENGERMATCH-26FEB17SNIHRU-SNI,Will Daria Snigur win the Snigur vs Hruncakova : Round Of 32 match?,True,False,,0.76,44885.0,14,14
+KXUFCFIGHT-26FEB21LEADEL-LEA,"Will Jordan Leavitt win the Leavitt vs Delvalle professional MMA fight scheduled for Feb 21, 2026?",True,True,1.0,0.02,243457.0,246,246
+KXUFCVICROUND-26FEB21STRHER-STR4,Will Sean Strickland win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 4,False,True,0.0,0.0,59717.0,39,39
+KXNBAPTS-26FEB22ORLLAC-ORLDBANE3-30,Desmond Bane: 30+ points,True,True,0.0,0.0,13821.0,21,21
+KXWTACHALLENGERMATCH-26FEB19KOEKOS-KOE,Will Anouk Koevermans win the Koevermans vs Kostovic : Round Of 16 match?,False,False,,0.25,105488.0,12,12
+KXKBLGAME-26FEB190500KNIDAE-DAE,Seoul SK Knights vs Daegu Pegasus Winner?,True,True,0.0,0.02,125911.0,28,28
+KXWTACHALLENGERMATCH-26FEB21CHAVID-CHA,Will Alina Charaeva win the Charaeva vs Vidmanova : Semifinal match?,True,False,,0.26,331683.0,16,16
+KXNBAPTS-26FEB20LACLAL-LALAREAVES15-30,Austin Reaves: 30+ points,False,True,0.0,0.0,5123.0,17,17
+KXWTACHALLENGERMATCH-26FEB21STOGUO-GUO,Will Hanyu Guo win the Stoiana vs Guo : Semifinal match?,True,False,,0.23,498927.0,15,15
+KXWTACHALLENGERMATCH-26FEB17JOKJON-JOK,Will Katarina Jokic win the Jokic vs Jones : Round Of 32 match?,True,True,0.0,0.04,109933.0,8,8
+KXUELSPREAD-26FEB19LILCZV-LIL2,Lille wins by over 2.5 goals?,False,True,3.0,0.0,15551.0,5,5
+KXPGATOP20-THGI26-MGRE,Will Max Greyserman finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,7760.0,111,111
+KXPGATOP20-THGI26-BCAM,Will Brian Campbell finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,16226.0,78,78
+KXNBA3D-26FEB22NYKCHI-NYKJHART3,Josh Hart: Triple Double,False,True,0.0,0.0,11518.0,21,21
+KXKBLGAME-26FEB170000SONDAE-SON,KT Sonicboom vs Daegu Pegasus Winner?,True,True,0.0,0.02,571950.0,39,39
+KXWTACHALLENGERMATCH-26FEB17KALROG-ROG,Will Anna Rogers win the Kalieva vs Rogers : Round Of 32 match?,False,False,,0.15,39324.0,13,13
+KXWTACHALLENGERMATCH-26FEB17BAIPAL-BAI,Will Naiktha Bains win the Bains vs Palicova : Round Of 32 match?,True,False,,0.3,201570.0,12,12
+KXUFCVICROUND-26FEB21STRHER-HER4,Will Anthony Hernandez win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 4,False,True,0.0,0.0,15296.0,43,43
+KXWTACHALLENGERMATCH-26FEB17DODKOR-KOR,Will Tamara Korpatsch win the Dodin vs Korpatsch : Round Of 32 match?,False,True,14.0,0.0,111258.0,15,15
+KXWTACHALLENGERMATCH-26FEB17TOMJAK-JAK,Will Dalila Jakupovic win the Tomova vs Jakupovic : Round Of 32 match?,False,True,10.0,0.02,46762.0,11,11
+KXNBAPTS-26FEB22PHIMIN-MINJMCDANIELS3-15,Jaden McDaniels: 15+ points,True,True,9.0,0.01,10920.0,20,20
+KXWTACHALLENGERMATCH-26FEB22SALLAZ-LAZ,Will Andrea Lazaro Garcia win the Salkova vs Lazaro Garcia : Final match?,False,True,12.0,0.01,13007.0,13,13
+KXPGATOP20-THGI26-KBRA,Will Keegan Bradley finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,6175.0,83,83
+KXNBA2D-26FEB19BOSGSW-GSWDGREEN23,Draymond Green: Double Double,False,True,0.0,0.0,6471.0,39,39
+KXUFCVICROUND-26FEB21STRHER-HER5,Will Anthony Hernandez win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 5,False,True,0.0,0.0,13321.0,37,37
+KXPGATOP20-THGI26-JDAY,Will Jason Day finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,8555.0,86,86
+KXNBAPTS-26FEB21HOUNYK-NYKMBRIDGES25-15,Mikal Bridges: 15+ points,False,True,0.0,0.0,6295.0,26,26
+KXBBLGAME-26FEB171230SKYBAY-BAY,Fraport Skyliners vs Bayern Munich Winner?,True,True,0.0,0.01,289423.0,37,37
+KXNBAPTS-26FEB22DENGSW-DENNJOKIC15-30,Nikola Jokić: 30+ points,True,True,15.0,0.0,7075.0,18,18
+KXWTACHALLENGERMATCH-26FEB17HOSLIU-HOS,Will Sakura Hosogi win the Hosogi vs Liu : Round Of 32 match?,True,False,,0.14,198656.0,17,17
+KXNBAPTS-26FEB20CLECHA-CHALBALL1-20,LaMelo Ball: 20+ points,False,True,17.0,0.0,9817.0,19,19
+KXSAUDIPLTOTAL-26FEB20DAMSHA-2,Al-Shabab at Damac: Totals,True,True,0.0,0.01,6099.0,24,24
+KXUFCFIGHT-26FEB21OSBIDI-OSB,"Will Ode Osbourne win the Osbourne vs Idiris professional MMA fight scheduled for Feb 21, 2026?",False,True,214.0,0.0,304795.0,215,215
+KXWTACHALLENGERMATCH-26FEB17COLDAY-COL,Will Elizabeth Coleman win the Coleman vs Day : Round Of 32 match?,False,True,0.0,0.03,276130.0,12,12
+KXKBLGAME-26FEB170230KNITHU-THU,Seoul SK Knights vs Samsung Thunders Winner?,False,True,0.0,0.02,234085.0,36,36
+KXWTACHALLENGERMATCH-26FEB22ALVCOL-COL,Will Martina Colmegna win the Alves vs Colmegna : Qualification match?,True,False,,0.35,318002.0,12,12
+KXNBAPTS-26FEB20DENPOR-DENNJOKIC15-35,Nikola Jokić: 35+ points,False,True,0.0,0.0,5493.0,22,22
+KXLIGUE1BTTS-26FEB20STBOM,Marseille at Stade Brest: Both Teams to Score,False,True,0.0,0.0,9457.0,86,86
+KXNBAPTS-26FEB22BOSLAL-LALLDONCIC77-35,Luka Dončić: 35+ points,False,True,0.0,0.0,6389.0,23,23
+KXNBAPTS-26FEB20LACLAL-LALAREAVES15-25,Austin Reaves: 25+ points,True,True,0.0,0.01,13988.0,17,17
+KXPGATOP20-THGI26-RGER,Will Ryan Gerard finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,8039.0,101,101
+KXUELSPREAD-26FEB19LILCZV-LIL1,Lille wins by over 1.5 goals?,False,True,4.0,0.0,5604.0,5,5
+KXNBA1HTOTAL-26FEB22BOSLAL-118,Boston vs Los Angeles L: First Half Total?,False,True,0.0,0.0,11042.0,15,15
+KXATPSETWINNER-26FEB23PELBAR-2-PEL,Will Andrea Pellegrino win set 2 in the Andrea Pellegrino vs Alex Barrena match,False,True,0.0,0.0,5117.0,12,12
+KXPGATOP20-THGI26-LABE,Will Ludvig Aberg finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,55870.0,145,145
+KXWTACHALLENGERMATCH-26FEB19JORJOR2-JOR2,Will Francisca Jorge win the Jorge vs Jorge : Round Of 16 match?,True,False,,0.58,27033.0,11,11
+KXUFCFIGHT-26FEB21NEAMED-NEA,"Will Geoffrey Neal win the Neal vs Medic professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.6,750710.0,117,117
+KXWTACHALLENGERMATCH-26FEB18FREDAY-FRE,Will Anna Frey win the Frey vs Day : Round Of 16 match?,True,False,,0.06,746377.0,12,12
+KXNBAPTS-26FEB22CLEOKC-CLEJHARDEN1-20,James Harden: 20+ points,True,True,19.0,0.0,8808.0,20,20
+KXWOMHOCKEYTOTAL-26FEB17CHEITA-3,Switzerland vs Italy: Total Goals,False,True,0.0,0.01,7549.0,9,9
+KXNBAPTS-26FEB19PHXSAS-SASVWEMBANYAMA1-20,Victor Wembanyama: 20+ points,False,True,0.0,0.0,16101.0,44,44
+KXDENSUPERLIGAGAME-26FEB22RANFRE-FRE,Randers vs Fredericia Winner?,True,True,0.0,0.02,27868.0,47,47
+KXATPSETWINNER-26FEB19MENSIN-1-MEN,Will Jakub Mensik win set 1 in the Jakub Mensik vs Jannik Sinner match,True,True,0.0,0.0,12632.0,8,8
+KXPGATOP20-THGI26-SVAL,Will Sami Valimaki finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,19523.0,109,109
+KXBBLGAME-26FEB181400RASTBB-RAS,Rasta Vechta vs Baskets Bonn Winner?,False,True,0.0,0.0,54438.0,49,49
+KXWTACHALLENGERMATCH-26FEB17WERKRA-WER,Will Caroline Werner win the Werner vs Kraus : Round Of 32 match?,False,True,12.0,0.03,66566.0,13,13
+KXWTACHALLENGERMATCH-26FEB19SNIBAI-BAI,Will Naiktha Bains win the Snigur vs Bains : Round Of 16 match?,False,True,11.0,0.03,102112.0,12,12
+KXWTACHALLENGERMATCH-26FEB20LEEKOR-LEE,Will Carol Young Suh Lee win the Lee vs Korneeva : Quarterfinal match?,False,True,10.0,0.03,99120.0,11,11
+KXUFCFIGHT-26FEB21SPIDEL-DEL,"Will Ante Delija win the Spivak vs Delija professional MMA fight scheduled for Feb 21, 2026?",False,True,221.0,0.0,950746.0,222,222
+KXPGATOP20-THGI26-ANOR,Will Alex Noren finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,11256.0,113,113
+KXKBLGAME-26FEB180230SAKEGI-EGI,LG Sakers vs KCC Egis Winner?,False,True,4.0,0.0,84329.0,5,5
+KXWTACHALLENGERMATCH-26FEB19JORJOR2-JOR,Will Matilde Jorge win the Jorge vs Jorge : Round Of 16 match?,False,False,,0.05,71239.0,11,11
+KXDENSUPERLIGAGAME-26FEB20NJAVEJ-TIE,Nordsjaelland vs Vejle Winner?,True,False,,0.05,86792.0,54,54
+KXNBA3D-26FEB20BKNOKC-OKCIHARTENSTEIN55,Isaiah Hartenstein: Triple Double,False,True,0.0,0.0,11828.0,20,20
+KXWTACHALLENGERMATCH-26FEB22YAMSPI-YAM,Will Ikumi Yamazaki win the Yamazaki vs Spiteri : Qualification match?,False,True,0.0,0.04,25294.0,13,13
+KXWOMHOCKEYTOTAL-26FEB18FINCHE-5,Finland vs Switzerland: Total Goals,False,True,0.0,0.01,25397.0,18,18
+KXWTACHALLENGERMATCH-26FEB20LAZMAR-MAR,Will Diana Martynov win the Lazaro Garcia vs Martynov : Quarterfinal match?,False,False,,0.17,60355.0,11,11
+KXWTACHALLENGERMATCH-26FEB20COSFER-FER,Will Fiona Ferro win the Costoulas vs Ferro : Quarterfinal match?,True,False,,0.43,545663.0,13,13
+KXNBAPTS-26FEB20CLECHA-CHAKKNUEPPEL7-30,Kon Knueppel: 30+ points,True,True,0.0,0.0,12913.0,20,20
+KXNBAPTS-26FEB20CLECHA-CHAKKNUEPPEL7-25,Kon Knueppel: 25+ points,True,True,0.0,0.0,10800.0,20,20
+KXNBAPTS-26FEB22ORLLAC-ORLPBANCHERO5-20,Paolo Banchero: 20+ points,False,True,0.0,0.0,13702.0,23,23
+KXUFCFIGHT-26FEB21CORGUR-COR,"Will Alden Coria win the Coria vs Gurule professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.63,310828.0,210,210
+KXWOMHOCKEYTOTAL-26FEB18FINCHE-4,Finland vs Switzerland: Total Goals,True,True,0.0,0.01,44668.0,14,14
+KXWOWHOCKEY-26FEB19CHESWE-SWE,Switzerland vs Sweden Winner?,False,False,,0.58,278404.0,39,39
+KXWTACHALLENGERMATCH-26FEB18CHAYOU-YOU,Will Xiaodi You win the Charaeva vs You : Round Of 16 match?,False,True,11.0,0.0,191717.0,12,12
+KXNBAPTS-26FEB21DETCHI-DETATHOMPSON9-10,Ausar Thompson: 10+ points,False,True,0.0,0.0,6672.0,24,24
+KXWTACHALLENGERMATCH-26FEB22TOTSHA-SHA,Will Sofia Shapatava win the Toth vs Shapatava : Qualification match?,False,True,0.0,0.0,26057.0,10,10
+KXBBLGAME-26FEB181230WURBLB-BLB,Wurzburg Baskets vs Basketball Lowen Braunschweig Winner?,False,True,0.0,0.01,134504.0,31,31
+KXWTACHALLENGERMATCH-26FEB18BRESTO-BRE,Will Madison Brengle win the Brengle vs Stoiana : Round Of 16 match?,False,True,10.0,0.0,39359.0,11,11
+KXWTACHALLENGERMATCH-26FEB22TOTSHA-TOT,Will Amarissa Kiara Toth win the Toth vs Shapatava : Qualification match?,True,True,0.0,0.04,17661.0,11,11
+KXDENSUPERLIGAGAME-26FEB21OBKFCC-OBK,Odense vs Copenhagen Winner?,False,True,3.0,0.01,59721.0,56,56
+KXWTACHALLENGERMATCH-26FEB20FREVID-FRE,Will Anna Frey win the Frey vs Vidmanova : Quarterfinal match?,False,True,12.0,0.02,961269.0,13,13
+KXNBA1HTOTAL-26FEB19DENLAC-110,Denver vs Los Angeles C: First Half Total?,False,True,0.0,0.0,7064.0,17,17
+KXWTACHALLENGERMATCH-26FEB17KALROG-KAL,Will Elvina Kalieva win the Kalieva vs Rogers : Round Of 32 match?,True,False,,0.7,26233.0,13,13
+KXWTACHALLENGERMATCH-26FEB17BRACRO-CRO,Will Kayla Cross win the Brace vs Cross : Round Of 32 match?,True,False,,0.45,436652.0,9,9
+KXALEAGUETOTAL-26FEB20WPHAUC-4,Auckland at Wellington: Totals,True,True,7.0,0.03,11592.0,21,21
+KXEPLBTTS-26FEB21WHUBOU,Bournemouth at West Ham: Both Teams to Score,False,True,0.0,0.0,7569.0,181,181
+KXWTACHALLENGERMATCH-26FEB17SNIHRU-HRU,Will Viktoria Hruncakova win the Snigur vs Hruncakova : Round Of 32 match?,False,True,13.0,0.0,30811.0,14,14
+KXWTACHALLENGERMATCH-26FEB22ALVCOL-ALV,Will Carolina Alves win the Alves vs Colmegna : Qualification match?,False,False,,0.06,263879.0,13,13
+KXNBAPTS-26FEB19PHXSAS-SASVWEMBANYAMA1-25,Victor Wembanyama: 25+ points,False,True,0.0,0.0,18667.0,44,44
+KXNBA3D-26FEB19ORLSAC-SACRWESTBROOK18,Russell Westbrook: Triple Double,False,True,0.0,0.0,6156.0,20,20
+KXSAUDIPLTOTAL-26FEB23QADITT-3,Al-Ittifaq at Al Qadsiah: Totals,True,True,0.0,0.01,6351.0,36,36
+KXWOMHOCKEY-26FEB21SVKFIN-SVK,Slovakia vs Finland Winner?,False,True,0.0,0.0,275750.0,23,23
+KXWOMHOCKEYTOTAL-26FEB17CHEITA-6,Switzerland vs Italy: Total Goals,False,True,19.0,0.01,13977.0,20,20
+KXNBA3D-26FEB20LACLAL-LACBMATHURIN9,Bennedict Mathurin: Triple Double,False,True,0.0,0.0,10295.0,5,5
+KXWOMHOCKEY-26FEB17CZEDNK-DNK,Czech Republic vs Denmark Winner?,False,False,,0.05,156223.0,40,40
+KXNBA3D-26FEB20LACLAL-LALLJAMES23,LeBron James: Triple Double,False,True,0.0,0.0,9218.0,21,21
+KXWTACHALLENGERMATCH-26FEB17TIKLIA-LIA,Will En-Shuo Liang win the Tikhonova vs Liang : Round Of 32 match?,True,True,2.0,0.04,68755.0,13,13
+KXWOMHOCKEY-26FEB17DEUFRA-DEU,Germany vs France Winner?,True,False,,0.82,97748.0,35,35
+KXNBAPTS-26FEB20DENPOR-PORDAVDIJA8-25,Deni Avdija: 25+ points,False,True,0.0,0.0,10509.0,22,22
+KXWTACHALLENGERMATCH-26FEB20LEEKOR-KOR,Will Alina Korneeva win the Lee vs Korneeva : Quarterfinal match?,True,False,,0.69,79320.0,12,12
+KXWOMHOCKEY-26FEB20USASVK-USA,United States vs Slovakia Winner?,True,False,,0.65,1491656.0,45,45
+KXDENSUPERLIGAGAME-26FEB22RANFRE-RAN,Randers vs Fredericia Winner?,False,True,0.0,0.0,22187.0,46,46
+KXNBA3D-26FEB21DETCHI-CHIJGIDDEY3,Josh Giddey: Triple Double,False,True,0.0,0.0,5124.0,23,23
+KXUFCVICROUND-26FEB21STRHER-HER2,Will Anthony Hernandez win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 2,False,True,0.0,0.0,16774.0,47,47
+KXUFCVICROUND-26FEB21STRHER-HER3,Will Anthony Hernandez win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 3,False,True,0.0,0.0,21500.0,48,48
+KXPGATOP20-THGI26-RFOW,Will Rickie Fowler finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,27522.0,140,140
+KXNBAPTS-26FEB22ORLLAC-ORLPBANCHERO5-25,Paolo Banchero: 25+ points,False,True,0.0,0.0,6603.0,22,22
+KXNBAPTS-26FEB20CLECHA-CHAKKNUEPPEL7-20,Kon Knueppel: 20+ points,True,True,0.0,0.0,5053.0,18,18
+KXALEAGUETOTAL-26FEB22NUJMAC-1,Macarthur at Newcastle: Totals,False,True,0.0,0.01,8411.0,48,48
+KXWTACHALLENGERMATCH-26FEB18ANSHIB-HIB,Will Nao Hibino win the Ansari vs Hibino : Round Of 32 match?,True,False,,0.63,226039.0,13,13
+KXWTACHALLENGERMATCH-26FEB17MANJOR-JOR,Will Matilde Jorge win the Mansouri vs Jorge : Round Of 32 match?,True,False,,0.56,329064.0,14,14
+KXWTACHALLENGERMATCH-26FEB19SNIBAI-SNI,Will Daria Snigur win the Snigur vs Bains : Round Of 16 match?,True,False,,0.87,34444.0,12,12
+KXNBAPTS-26FEB19HOUCHA-CHALBALL1-25,LaMelo Ball: 25+ points,False,True,0.0,0.0,5516.0,41,41
+KXUFCFIGHT-26FEB21STRHER-STR,"Will Sean Strickland win the Strickland vs Hernandez professional MMA fight scheduled for Feb 21, 2026?",True,True,2.0,0.03,7869638.0,291,291
+KXWTACHALLENGERMATCH-26FEB20KOSJOR-KOS,Will Teodora Kostovic win the Kostovic vs Jorge : Quarterfinal match?,True,False,,0.5,743217.0,14,14
+KXNBAPTS-26FEB21DETCHI-DETCCUNNINGHAM2-25,Cade Cunningham: 25+ points,False,True,0.0,0.0,8644.0,24,24
+KXWTACHALLENGERMATCH-26FEB18KORRAD-RAD,Will Lola Radivojevic win the Korneeva vs Radivojevic : Round Of 32 match?,False,True,11.0,0.01,211878.0,12,12
+KXNBA3D-26FEB22DENGSW-DENNJOKIC15,Nikola Jokić: Triple Double,True,False,,0.44,8304.0,17,17
+KXWTACHALLENGERMATCH-26FEB18TOMLIA-LIA,Will En-Shuo Liang win the Tomova vs Liang : Round Of 16 match?,False,False,,0.09,302070.0,14,14
+KXWTACHALLENGERMATCH-26FEB18SISSAL-SAL,Will Dominika Salkova win the Siskova vs Salkova : Round Of 16 match?,True,False,,0.49,245314.0,13,13
+KXWTACHALLENGERMATCH-26FEB18CHAYOU-CHA,Will Alina Charaeva win the Charaeva vs You : Round Of 16 match?,True,False,,0.47,274209.0,12,12
+KXWTACHALLENGERMATCH-26FEB17JOKJON-JON,Will Elizabeth Jones win the Jokic vs Jones : Round Of 32 match?,False,True,0.0,0.04,75503.0,8,8
+KXNBAPTS-26FEB22BOSLAL-LALLDONCIC77-25,Luka Dončić: 25+ points,True,True,0.0,0.0,13738.0,22,22
+KXNBAPTS-26FEB20DENPOR-DENJMURRAY27-25,Jamal Murray: 25+ points,True,True,0.0,0.01,10397.0,22,22
+KXUFCFIGHT-26FEB21OSBIDI-IDI,"Will Alibi Idiris win the Osbourne vs Idiris professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.5,426504.0,190,190
+KXNBAPTS-26FEB21DETCHI-DETDROBINSON55-10,Duncan Robinson: 10+ points,True,True,0.0,0.0,9613.0,17,17
+KXALEAGUETOTAL-26FEB20WPHAUC-3,Auckland at Wellington: Totals,True,True,13.0,0.03,7622.0,39,39
+KXATPSETWINNER-26FEB20TIETIA-2-TIA,Will Frances Tiafoe win set 2 in the Learner Tien vs Frances Tiafoe match,True,True,0.0,0.0,6068.0,18,18
+KXWTACHALLENGERMATCH-26FEB20COSFER-COS,Will Sofia Costoulas win the Costoulas vs Ferro : Quarterfinal match?,False,False,,0.3,551789.0,12,12
+KXWTACHALLENGERMATCH-26FEB18FERSTE-STE,Will Lucrezia Stefanini win the Ferro vs Stefanini : Round Of 32 match?,False,True,12.0,0.04,191863.0,13,13
+KXWTACHALLENGERMATCH-26FEB19HIBOSU-HIB,Will Nao Hibino win the Hibino vs Osuigwe : Round Of 16 match?,True,True,0.0,0.04,158404.0,11,11
+KXALEAGUETOTAL-26FEB22NUJMAC-3,Macarthur at Newcastle: Totals,False,True,3.0,0.01,9798.0,36,36
+KXNBA2D-26FEB21HOUNYK-NYKJBRUNSON11,Jalen Brunson: Double Double,False,True,2.0,0.0,6728.0,27,27
+KXKBLGAME-26FEB190500THUGOY-GOY,Samsung Thunders vs Goyang Skygunners Winner?,True,True,0.0,0.02,37052.0,29,29
+KXUFCFIGHT-26FEB21IGECOS-COS,"Will Melquizael Costa win the Ige vs Costa professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.58,412252.0,212,212
+KXWOMHOCKEYTOTAL-26FEB18FINCHE-3,Finland vs Switzerland: Total Goals,True,True,0.0,0.01,39021.0,10,10
+KXWTACHALLENGERMATCH-26FEB19SHYKRA-SHY,Will Iryna Shymanovich win the Shymanovich vs Kraus : Round Of 16 match?,False,True,10.0,0.02,64261.0,11,11
+KXUFCVICROUND-26FEB21STRHER-HER1,Will Anthony Hernandez win the Sean Strickland vs. Anthony Hernandez UFC fight in Round 1,False,True,0.0,0.0,13767.0,38,38
+KXWOMHOCKEY-26FEB18SVKDEU-DEU,Slovakia vs Germany Winner?,False,True,12.0,0.0,106162.0,13,13
+KXNBAPTS-26FEB22BOSLAL-BOSPPRITCHARD11-15,Payton Pritchard: 15+ points,True,True,0.0,0.0,10004.0,19,19
+KXNBA1HTOTAL-26FEB22CLEOKC-109,Cleveland vs Oklahoma City: First Half Total?,True,True,0.0,0.0,7095.0,8,8
+KXALEAGUETOTAL-26FEB22NUJMAC-2,Macarthur at Newcastle: Totals,False,True,3.0,0.01,9842.0,41,41
+KXWTACHALLENGERMATCH-26FEB22GUOCHA-CHA,Will Alina Charaeva win the Guo vs Charaeva : Final match?,True,False,,0.46,250795.0,14,14
+KXWTACHALLENGERMATCH-26FEB22CAKZOL-CAK,Will Deniz Cakil win the Cakil vs Zolotareva : Qualification match?,False,True,0.0,0.0,25539.0,9,9
+KXWTACHALLENGERMATCH-26FEB20GOLQUE-QUE,Will Kaitlin Quevedo win the Golubic vs Quevedo : Quarterfinal match?,False,False,,0.2,130050.0,14,14
+KXNBAPTS-26FEB21HOUNYK-HOUATHOMPSON1-15,Amen Thompson: 15+ points,False,True,0.0,0.0,5162.0,26,26
+KXUELSPREAD-26FEB19LUDFTC-FTC1,Ferencvarosi wins by over 1.5 goals?,False,True,4.0,0.0,6345.0,5,5
+KXALEAGUETOTAL-26FEB20WPHAUC-2,Auckland at Wellington: Totals,True,True,16.0,0.03,11092.0,45,45
+KXNBA3D-26FEB21SACSAS-SACRWESTBROOK18,Russell Westbrook: Triple Double,False,True,0.0,0.0,5207.0,15,15
+KXWTACHALLENGERMATCH-26FEB19LAZLEO-LAZ,Will Andrea Lazaro Garcia win the Lazaro Garcia vs Leonard : Round Of 16 match?,True,True,0.0,0.04,495402.0,14,14
+KXNBAPTS-26FEB22BOSLAL-LALLDONCIC77-30,Luka Dončić: 30+ points,False,True,23.0,0.0,37789.0,24,24
+KXWTACHALLENGERMATCH-26FEB17LEOSER-SER,Will Raluca Georgiana Serban win the Leonard vs Serban : Round Of 32 match?,False,False,,0.31,102491.0,11,11
+KXWTACHALLENGERMATCH-26FEB17HEWOSU-OSU,Will Whitney Osuigwe win the Hewitt vs Osuigwe : Round Of 32 match?,True,False,,0.67,88039.0,10,10
+KXWTACHALLENGERMATCH-26FEB22SALLAZ-SAL,Will Dominika Salkova win the Salkova vs Lazaro Garcia : Final match?,True,False,,0.65,22963.0,12,12
+KXWTACHALLENGERMATCH-26FEB19JOKGUO-GUO,Will Hanyu Guo win the Jokic vs Guo : Round Of 16 match?,True,False,,0.21,31379.0,12,12
+KXNBAPTS-26FEB21HOUNYK-NYKKTOWNS32-20,Karl-Anthony Towns: 20+ points,True,True,0.0,0.0,15953.0,23,23
+KXWOMHOCKEY-26FEB18USASWE-SWE,United States vs Sweden Winner?,False,False,,0.15,1068397.0,22,22
+KXSCOTTISHPREMGAME-26FEB21MIRMOT-MOT,St. Mirren vs Motherwell Winner?,True,False,,0.08,14565.0,74,74
+KXALEAGUETOTAL-26FEB21MELVIC-2,Melbourne Victory at Melbourne City: Totals,True,True,0.0,0.01,22000.0,44,44
+KXWOMHOCKEY-26FEB17CHEITA-CHE,Switzerland vs Italy Winner?,True,False,,0.88,43926.0,35,35
+KXWTACHALLENGERMATCH-26FEB17BROLAZ-LAZ,Will Andrea Lazaro Garcia win the Bronzetti vs Lazaro Garcia : Round Of 32 match?,True,False,,0.25,166013.0,11,11
+KXPGATOP20-THGI26-JVEG,Will Jhonattan Vegas finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,5774.0,92,92
+KXNBA1HTOTAL-26FEB21ORLPHX-112,Orlando vs Phoenix: First Half Total?,False,True,0.0,0.0,6468.0,14,14
+KXWTACHALLENGERMATCH-26FEB18TOMLIA-TOM,Will Viktoriya Tomova win the Tomova vs Liang : Round Of 16 match?,True,False,,0.28,368042.0,14,14
+KXNBAPTS-26FEB20UTAMEM-UTAABAILEY19-15,Ace Bailey: 15+ points,True,True,0.0,0.0,6415.0,16,16
+KXBBLGAME-26FEB171400TOWALBA-ALBA,Hamburg Towers vs Alba Berlin Winner?,False,True,0.0,0.0,318365.0,41,41
+KXPGATOP20-THGI26-RFOX,Will Ryan Fox finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,14674.0,136,136
+KXWTACHALLENGERMATCH-26FEB19KALHOS-KAL,Will Elvina Kalieva win the Kalieva vs Hosogi : Round Of 16 match?,True,True,0.0,0.04,31610.0,16,16
+KXNBA3D-26FEB22CHAWAS-CHALBALL1,LaMelo Ball: Triple Double,False,True,0.0,0.0,6218.0,18,18
+KXSAUDIPLTOTAL-26FEB20ALTFAY-2,Al-Fayha at Al-Taawoun: Totals,True,True,0.0,0.01,7076.0,39,39
+KXNBAPTS-26FEB22BOSLAL-BOSPPRITCHARD11-25,Payton Pritchard: 25+ points,True,True,0.0,0.0,6125.0,20,20
+KXBBLGAME-26FEB171400TOWALBA-TOW,Hamburg Towers vs Alba Berlin Winner?,True,True,0.0,0.01,557475.0,40,40
+KXWTACHALLENGERMATCH-26FEB20SNIKRA-KRA,Will Sinja Kraus win the Snigur vs Kraus : Quarterfinal match?,False,False,,0.08,149206.0,13,13
+KXBBLGAME-26FEB181230WURBLB-WUR,Wurzburg Baskets vs Basketball Lowen Braunschweig Winner?,True,True,0.0,0.01,131240.0,37,37
+KXNBA3D-26FEB20LACLAL-LALLDONCIC77,Luka Dončić: Triple Double,False,True,0.0,0.01,8416.0,21,21
+KXDENSUPERLIGAGAME-26FEB22AGFVIB-AGF,Aarhus vs Viborg Winner?,True,True,0.0,0.02,17157.0,61,61
+KXUFCFIGHT-26FEB21BRASOR-SOR,"Will Punahele Soriano win the Brahimaj vs Soriano professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.36,313453.0,103,103
+KXPGATOP20-THGI26-TFIN,Will Tony Finau finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,66545.0,142,142
+KXALEAGUETOTAL-26FEB21MELVIC-3,Melbourne Victory at Melbourne City: Totals,True,True,0.0,0.01,11916.0,46,46
+KXBBLGAME-26FEB181400HEICHE-HEI,MLP Academics Heidelberg vs Niners Chemnitz Winner?,False,True,0.0,0.01,328946.0,29,29
+KXNBAPTS-26FEB19HOUCHA-HOUKDURANT7-20,Kevin Durant: 20+ points,True,True,0.0,0.0,5476.0,44,44
+KXATPSETWINNER-26FEB20TIRTAB-2-TAB,Will Alejandro Tabilo win set 2 in the Thiago Agustin Tirante vs Alejandro Tabilo match,False,True,0.0,0.0,11346.0,15,15
+KXUFCFIGHT-26FEB21CORGUR-GUR,"Will Luis Gurule win the Coria vs Gurule professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.21,282807.0,193,193
+KXNBA2D-26FEB22BOSLAL-BOSJBROWN7,Jaylen Brown: Double Double,False,True,0.0,0.0,8612.0,25,25
+KXNBA3D-26FEB19DENLAC-DENNJOKIC15,Nikola Jokić: Triple Double,False,True,0.0,0.0,9164.0,37,37
+KXNBAPTS-26FEB19ATLPHI-ATLJJOHNSON1-35,Jalen Johnson: 35+ points,False,True,0.0,0.0,10628.0,23,23
+KXWTACHALLENGERMATCH-26FEB22RISAST-AST,Will Darya Astakhova win the Ristic vs Astakhova : Qualification match?,False,True,0.0,0.04,18177.0,11,11
+KXBBLGAME-26FEB181230OLDULM-OLD,Baskets Oldenburg vs Ulm Basketball Winner?,False,True,0.0,0.0,24832.0,24,24
+KXWTACHALLENGERMATCH-26FEB18MARDOD-MAR,Will Diana Martynov win the Martynov vs Dodin : Round Of 16 match?,True,False,,0.09,466541.0,11,11
+KXWTACHALLENGERMATCH-26FEB21KORSAL-SAL,Will Dominika Salkova win the Korneeva vs Salkova : Semifinal match?,True,False,,0.23,382046.0,12,12
+KXWTACHALLENGERMATCH-26FEB20CHAHIB-HIB,Will Nao Hibino win the Charaeva vs Hibino : Quarterfinal match?,False,False,,0.2,113393.0,14,14
+KXWTACHALLENGERMATCH-26FEB22CAKZOL-ZOL,Will Anastasia Zolotareva win the Cakil vs Zolotareva : Qualification match?,True,True,0.0,0.04,11931.0,9,9
+KXKBLGAME-26FEB180000WONANY-ANY,Wonju DB Promy vs Anyang Jungkwanjang Red Boosters Winner?,True,False,,0.52,139841.0,2,2
+KXWTACHALLENGERMATCH-26FEB18ROSBAR-ROS,Will Camilla Rosatello win the Rosatello vs Barthel : Round Of 16 match?,False,True,13.0,0.01,130565.0,15,15
+KXALEAGUETOTAL-26FEB22CCMWES-2,Western Sydney Wanderers at Central Coast: Totals,True,True,3.0,0.01,11304.0,17,17
+KXDENSUPERLIGAGAME-26FEB22AGFVIB-VIB,Aarhus vs Viborg Winner?,False,True,0.0,0.0,5646.0,53,53
+KXSCOTTISHPREMGAME-26FEB22CELHIB-TIE,Celtic vs Hibernian Winner?,False,True,0.0,0.0,61315.0,38,38
+KXWTACHALLENGERMATCH-26FEB21FERLAZ-LAZ,Will Andrea Lazaro Garcia win the Ferro vs Lazaro Garcia : Semifinal match?,True,False,,0.23,350481.0,14,14
+KXWTACHALLENGERMATCH-26FEB22RISAST-RIS,Will Mia Ristic win the Ristic vs Astakhova : Qualification match?,True,True,0.0,0.04,65518.0,10,10
+KXWTACHALLENGERMATCH-26FEB20SEBSTO-STO,Will Mary Stoiana win the Sebov vs Stoiana : Quarterfinal match?,True,False,,0.61,259040.0,15,15
+KXWOMHOCKEY-26FEB17SWELVA-SWE,Sweden vs Latvia Winner?,True,False,,0.85,125429.0,42,42
+KXSCOTTISHPREMGAME-26FEB04DUNMOT-MOT,Dundee FC vs Motherwell Winner?,False,False,,0.23,28130.0,366,366
+KXWTACHALLENGERMATCH-26FEB17LEOSER-LEO,Will Manon Leonard win the Leonard vs Serban : Round Of 32 match?,True,False,,0.44,111393.0,11,11
+KXUFCFIGHT-26FEB21SPIDEL-SPI,"Will Sergey Spivak win the Spivak vs Delija professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.07,951526.0,205,205
+KXUFCFIGHT-26FEB21MILJUD-MIL,"Will Juliana Miller win the Miller vs Judice professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.07,328741.0,269,269
+KXWTACHALLENGERMATCH-26FEB17SORKOS-SOR,Will Sara Sorribes Tormo win the Sorribes Tormo vs Kostovic : Round Of 32 match?,False,False,,0.39,999357.0,15,15
+KXNBAPTS-26FEB21HOUNYK-NYKJBRUNSON11-25,Jalen Brunson: 25+ points,False,True,0.0,0.0,5360.0,23,23
+KXPGATOP20-THGI26-MSCH,Will Matti Schmid finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,5869.0,80,80
+KXWTACHALLENGERMATCH-26FEB18GOLCRA-CRA,Will Fiona Crawley win the Golubic vs Crawley : Round Of 16 match?,False,False,,0.13,220044.0,13,13
+KXNBAPTS-26FEB21ORLPHX-ORLDBANE3-20,Desmond Bane: 20+ points,True,True,0.0,0.02,9658.0,20,20
+KXKBLGAME-26FEB190500KNIDAE-KNI,Seoul SK Knights vs Daegu Pegasus Winner?,False,True,0.0,0.0,110286.0,29,29
+KXUFCFIGHT-26FEB21MILJUD-JUD,"Will Carli Judice win the Miller vs Judice professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.62,134290.0,250,250
+KXUELSPREAD-26FEB19CELVFB-VFB1,Stuttgart wins by over 1.5 goals?,True,False,,0.27,12142.0,5,5
+KXSCOTTISHPREMGAME-26FEB21ABEDUN-ABE,Aberdeen vs Dundee FC Winner?,False,True,47.0,0.0,20783.0,49,49
+KXPGATOP20-THGI26-WKIM,Will Si Woo Kim finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,29695.0,130,130
+KXWOWHOCKEY-26FEB19CHESWE-CHE,Switzerland vs Sweden Winner?,True,False,,0.25,132634.0,37,37
+KXWTACHALLENGERMATCH-26FEB18BOLLEE-BOL,Will Aliona Bolsova win the Bolsova vs Lee : Round Of 16 match?,False,False,,0.1,141241.0,14,14
+KXWTACHALLENGERMATCH-26FEB17YANMLA-YAN,Will Yidi Yang win the Yang vs Mladenovic : Round Of 32 match?,False,False,,0.17,947610.0,14,14
+KXNBA2D-26FEB20LACLAL-LALAREAVES15,Austin Reaves: Double Double,False,True,0.0,0.0,18716.0,21,21
+KXWTACHALLENGERMATCH-26FEB19LEEVID-LEE,Will Gabriela Lee win the Lee vs Vidmanova : Round Of 16 match?,False,True,3.0,0.0,133728.0,11,11
+KXWTACHALLENGERMATCH-26FEB18VOLLAM-VOL,Will Angelina Voloshchuk win the Voloshchuk vs Lamens : Round Of 16 match?,False,False,,0.07,65812.0,13,13
+KXWOMHOCKEYTOTAL-26FEB18SVKDEU-3,Slovakia vs Germany: Total Goals,True,True,0.0,0.01,5574.0,9,9
+KXPGATOP20-THGI26-NECH,Will Nicolas Echavarria finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,6481.0,91,91
+KXWTACHALLENGERMATCH-26FEB17YUAKOE-YUA,Will Yue Yuan win the Yuan vs Koevermans : Round Of 32 match?,False,False,,0.05,139910.0,11,11
+KXNBAPTS-26FEB22CLEOKC-CLEEMOBLEY4-15,Evan Mobley: 15+ points,True,True,0.0,0.0,6394.0,15,15
+KXUELSPREAD-26FEB19CELVFB-CEL1,Celtic wins by over 1.5 goals?,False,True,3.0,0.0,6953.0,5,5
+KXWTACHALLENGERMATCH-26FEB18SEBCRO-SEB,Will Katherine Sebov win the Sebov vs Cross : Round Of 16 match?,True,False,,0.42,193778.0,10,10
+KXNBAPTS-26FEB19BOSGSW-BOSJBROWN7-30,Jaylen Brown: 30+ points,False,True,0.0,0.0,5573.0,47,47
+KXSCOTTISHPREMGAME-26FEB22LIVRFC-LIV,Livingston vs Rangers Winner?,False,True,0.0,0.0,277495.0,50,50
+KXWTACHALLENGERMATCH-26FEB18KORRAD-KOR,Will Alina Korneeva win the Korneeva vs Radivojevic : Round Of 32 match?,True,False,,0.55,160429.0,12,12
+KXWOMHOCKEYTOTAL-26FEB18SVKDEU-7,Slovakia vs Germany: Total Goals,True,True,0.0,0.01,10557.0,11,11
+KXPGATOP20-THGI26-BCAU,Will Bud Cauley finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,5923.0,64,64
+KXALEAGUETOTAL-26FEB21MELVIC-4,Melbourne Victory at Melbourne City: Totals,False,True,0.0,0.01,19287.0,44,44
+KXWTACHALLENGERMATCH-26FEB17GUOCHI-GUO,Will Hanyu Guo win the Guo vs Chirico : Round Of 32 match?,True,False,,0.33,466791.0,14,14
+KXWTACHALLENGERMATCH-26FEB17CHASHI-SHI,Will Shilin Xu win the Charaeva vs Xu : Round Of 32 match?,False,False,,0.12,55315.0,7,7
+KXPGATOP20-THGI26-MPEN,Will Marco Penge finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,22041.0,114,114
+KXNBAPTS-26FEB20MIAATL-MIABADEBAYO13-20,Bam Adebayo: 20+ points,False,True,0.0,0.0,6037.0,18,18
+KXWTACHALLENGERMATCH-26FEB17BURTAN-BUR,Will Irene Burillo Escorihuela win the Burillo Escorihuela vs Tan : Round Of 32 match?,False,True,12.0,0.04,20113.0,13,13
+KXWTACHALLENGERMATCH-26FEB17AVAVOL-AVA,Will Elina Avanesyan win the Avanesyan vs Voloshchuk : Round Of 32 match?,False,False,,0.42,347338.0,12,12
+KXBBLGAME-26FEB181400RASTBB-TBB,Rasta Vechta vs Baskets Bonn Winner?,True,True,0.0,0.01,69989.0,49,49
+KXNBAPTS-26FEB19HOUCHA-HOUASENGUN28-20,Alperen Sengun: 20+ points,False,True,0.0,0.0,11658.0,41,41
+KXNBA3D-26FEB19DETNYK-NYKJHART3,Josh Hart: Triple Double,False,True,0.0,0.0,12271.0,41,41
+KXNBAPTS-26FEB19PHXSAS-SASDHARPER2-10,Dylan Harper: 10+ points,True,True,19.0,0.0,5161.0,21,21
+KXNBAPTS-26FEB21ORLPHX-ORLDBANE3-30,Desmond Bane: 30+ points,True,True,0.0,0.0,6770.0,16,16
+KXDENSUPERLIGAGAME-26FEB23BROSON-BRO,Broendby vs Soenderjyske Winner?,False,True,67.0,0.0,77182.0,68,68
+KXNBAPTS-26FEB20CLECHA-CLEJHARDEN1-20,James Harden: 20+ points,False,True,0.0,0.0,7819.0,20,20
+KXNBAPTS-26FEB21PHINOP-NOPDQUEEN22-10,Derik Queen: 10+ points,True,True,0.0,0.0,7696.0,13,13
+KXDENSUPERLIGAGAME-26FEB22AGFVIB-TIE,Aarhus vs Viborg Winner?,False,True,0.0,0.0,5912.0,46,46
+KXBBLGAME-26FEB191300MBCLUD-LUD,Mitteldeutscher BC vs Riesen Ludwigsburg Winner?,True,True,0.0,0.02,140620.0,21,21
+KXWTACHALLENGERMATCH-26FEB22GOLSNI-GOL,Will Viktorija Golubic win the Golubic vs Snigur : Final match?,False,False,,0.07,227814.0,13,13
+KXPGATOP20-THGI26-NTAY,Will Nick Taylor finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,6676.0,123,123
+KXEPLBTTS-26FEB21AVLLEE,Leeds United at Aston Villa: Both Teams to Score,True,True,0.0,0.0,13957.0,184,184
+KXNBAPTS-26FEB22NYKCHI-NYKJBRUNSON11-25,Jalen Brunson: 25+ points,False,True,0.0,0.0,13445.0,23,23
+KXWTACHALLENGERMATCH-26FEB21CHAVID-VID,Will Darja Vidmanova win the Charaeva vs Vidmanova : Semifinal match?,False,True,15.0,0.0,240208.0,16,16
+KXWOMHOCKEY-26FEB17DEUFRA-FRA,Germany vs France Winner?,False,True,32.0,0.0,26430.0,34,34
+KXWOMHOCKEYTOTAL-26FEB18SVKDEU-6,Slovakia vs Germany: Total Goals,True,True,0.0,0.01,6066.0,13,13
+KXWTACHALLENGERMATCH-26FEB17MINROS-ROS,Will Camilla Rosatello win the Minnen vs Rosatello : Round Of 32 match?,True,False,,0.09,354013.0,14,14
+KXWOMHOCKEY-26FEB17SWELVA-LVA,Sweden vs Latvia Winner?,False,True,41.0,0.0,112249.0,43,43
+KXNBAPTS-26FEB19ATLPHI-PHITMAXEY0-30,Tyrese Maxey: 30+ points,False,True,0.0,0.0,8492.0,45,45
+KXATPSETWINNER-26FEB20BUSBER-2-BUS,Will Ignacio Buse win set 2 in the Ignacio Buse vs Matteo Berrettini match,False,True,0.0,0.0,5711.0,9,9
+KXNBAPTS-26FEB22CLEOKC-CLEEMOBLEY4-10,Evan Mobley: 10+ points,True,True,0.0,0.0,7729.0,13,13
+KXNBAPTS-26FEB19BOSGSW-BOSJBROWN7-25,Jaylen Brown: 25+ points,False,True,0.0,0.0,8622.0,45,45
+KXATPSETWINNER-26FEB20FRIPAU-1-FRI,Will Taylor Fritz win set 1 in the Taylor Fritz vs Tommy Paul match,False,True,0.0,0.0,11654.0,13,13
+KXWTACHALLENGERMATCH-26FEB23RISIBR-IBR,Will Alevtina Ibragimova win the Ristic vs Ibragimova : Qualification Final match?,True,True,0.0,0.04,184300.0,13,13
+KXWTACHALLENGERMATCH-26FEB20SNIKRA-SNI,Will Daria Snigur win the Snigur vs Kraus : Quarterfinal match?,True,False,,0.7,74167.0,12,12
+KXNBA2D-26FEB22BOSLAL-LALLJAMES23,LeBron James: Double Double,False,True,21.0,0.0,15678.0,23,23
+KXPGATOP20-THGI26-ASCO,Will Adam Scott finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,24428.0,143,143
+KXWOMHOCKEY-26FEB18FINCHE-CHE,Finland vs Switzerland Winner?,False,False,,0.29,289707.0,19,19
+KXWTACHALLENGERMATCH-26FEB20TOMLAM-LAM,Will Suzan Lamens win the Tomova vs Lamens : Quarterfinal match?,True,False,,0.6,256359.0,12,12
+KXUFCFIGHT-26FEB21NJOMIR-MIR,"Will Carlos Leal Miranda win the Njokuani vs Leal Miranda professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.17,451134.0,191,191
+KXDENSUPERLIGAGAME-26FEB22SILFCM-SIL,Silkeborg vs Midtjylland Winner?,False,True,0.0,0.0,5867.0,54,54
+KXKBLGAME-26FEB180230SAKEGI-SAK,LG Sakers vs KCC Egis Winner?,True,False,,0.61,190049.0,5,5
+KXWTACHALLENGERMATCH-26FEB17SEMBOL-BOL,Will Aliona Bolsova win the Semenistaja vs Bolsova : Round Of 32 match?,True,False,,0.25,67122.0,12,12
+KXNBA3D-26FEB19DETNYK-DETCCUNNINGHAM2,Cade Cunningham: Triple Double,False,True,0.0,0.0,8405.0,39,39
+KXNBA3D-26FEB21ORLPHX-ORLPBANCHERO5,Paolo Banchero: Triple Double,False,True,0.0,0.0,6587.0,22,22
+KXALEAGUETOTAL-26FEB22CCMWES-4,Western Sydney Wanderers at Central Coast: Totals,True,True,5.0,0.01,6928.0,39,39
+KXNBAPTS-26FEB19PHXSAS-PHXDBOOKER1-25,Devin Booker: 25+ points,False,True,0.0,0.0,5224.0,45,45
+KXWTACHALLENGERMATCH-26FEB18ANSHIB-ANS,Will Carolyn Ansari win the Ansari vs Hibino : Round Of 32 match?,False,False,,0.05,57577.0,11,11
+KXNBAPTS-26FEB21ORLPHX-ORLPBANCHERO5-20,Paolo Banchero: 20+ points,True,True,0.0,0.0,13994.0,20,20
+KXWTACHALLENGERMATCH-26FEB17JORKLI-JOR,Will Francisca Jorge win the Jorge vs Klimovicova : Round Of 32 match?,True,False,,0.37,101630.0,11,11
+KXNBAPTS-26FEB19BKNCLE-CLEDMITCHELL45-25,Donovan Mitchell: 25+ points,False,True,0.0,0.0,6566.0,47,47
+KXWTACHALLENGERMATCH-26FEB22CIRZAV-CIR,Will Defne Cirpanli win the Cirpanli vs Zavatska : Qualification match?,False,True,0.0,0.0,114847.0,15,15
+KXWTACHALLENGERMATCH-26FEB17AVAVOL-VOL,Will Angelina Voloshchuk win the Avanesyan vs Voloshchuk : Round Of 32 match?,True,False,,0.26,437944.0,11,11
+KXNBAPTS-26FEB22BOSLAL-BOSPPRITCHARD11-20,Payton Pritchard: 20+ points,True,True,0.0,0.0,7006.0,22,22
+KXDENSUPERLIGAGAME-26FEB20NJAVEJ-VEJ,Nordsjaelland vs Vejle Winner?,False,True,62.0,0.0,240136.0,63,63
+KXNBA2D-26FEB22ORLLAC-ORLPBANCHERO5,Paolo Banchero: Double Double,False,True,18.0,0.0,8148.0,21,21
+KXSAUDIPLTOTAL-26FEB23FATAKHC-2,Al-Akhdoud at Al-Fateh: Totals,True,True,0.0,0.01,10651.0,41,41
+KXPGATOP20-THGI26-MHOM,Will Max Homa finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,48752.0,145,145
+KXSCOTTISHPREMGAME-26FEB22CELHIB-CEL,Celtic vs Hibernian Winner?,False,True,0.0,0.0,81700.0,27,27
+KXLIGUE1BTTS-26FEB22RCSOL,Lyon at Strasbourg Alsace: Both Teams to Score,True,True,41.0,0.0,7672.0,98,98
+KXUFCFIGHT-26FEB21COREDW-EDW,"Will Joselyne Edwards win the Cornolle vs Edwards professional MMA fight scheduled for Feb 21, 2026?",True,True,17.0,0.03,330999.0,186,186
+KXKBLGAME-26FEB170000SONDAE-DAE,KT Sonicboom vs Daegu Pegasus Winner?,False,True,0.0,0.02,384970.0,35,35
+KXWOMHOCKEYTOTAL-26FEB18SVKDEU-5,Slovakia vs Germany: Total Goals,True,False,,0.26,31444.0,13,13
+KXNBAPTS-26FEB22NYKCHI-NYKKTOWNS32-20,Karl-Anthony Towns: 20+ points,True,False,,0.45,6201.0,21,21
+KXNBAPTS-26FEB22ORLLAC-LACBLOPEZ11-15,Brook Lopez: 15+ points,False,True,0.0,0.0,8561.0,18,18
+KXPGATOP20-COCITPB26-ASCO,Cognizant Classic in The Palm Beaches: Will Adam Scott finish top 20?,False,True,0.0,0.0,110918.0,3,3
+KXSCOTTISHPREMGAME-26FEB21DUUKIL-TIE,Dundee United vs Kilmarnock Winner?,True,True,18.0,0.02,8993.0,39,39
+KXWTACHALLENGERMATCH-26FEB18SAWVID-SAW,Will Kanon Sawashiro win the Sawashiro vs Vidmanova : Round Of 32 match?,False,True,9.0,0.01,53627.0,10,10
+KXWOMHOCKEYTOTAL-26FEB22USACAN-5,United States vs Canada: Total Goals,False,False,,0.05,275585.0,20,20
+KXNBAPTS-26FEB20LACLAL-LACBMATHURIN9-20,Bennedict Mathurin: 20+ points,True,True,0.0,0.0,6331.0,9,9
+KXALEAGUETOTAL-26FEB20ADUPER-4,Perth at Adelaide: Totals,False,True,27.0,0.03,7215.0,39,39
+KXWTACHALLENGERMATCH-26FEB23SHYZAV-SHY,Will Iryna Shymanovich win the Shymanovich vs Zavatska : Qualification Final match?,False,False,,0.34,153745.0,13,13
+KXPGATOP20-THGI26-JSPA,Will J.J. Spaun finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,6855.0,95,95
+KXWOMHOCKEYTOTAL-26FEB18CANCZE-5,Canada vs Czechia: Total Goals,True,True,0.0,0.01,39180.0,17,17
+KXWOMHOCKEYTOTAL-26FEB20USASVK-9,United States vs Slovakia: Total Goals,False,True,0.0,0.01,10075.0,18,18
+KXNBAPTS-26FEB21SACSAS-SASVWEMBANYAMA1-35,Victor Wembanyama: 35+ points,False,True,0.0,0.0,7507.0,20,20
+KXBRASILEIROTOTAL-26FEB19CAPCOR-1,Corinthians at Paranaense: Totals,False,True,0.0,0.01,22247.0,43,43
+KXWTACHALLENGERMATCH-26FEB21KORSAL-KOR,Will Alina Korneeva win the Korneeva vs Salkova : Semifinal match?,False,False,,0.42,264673.0,13,13
+KXNBAPTS-26FEB22BOSLAL-LALLJAMES23-15,LeBron James: 15+ points,True,True,0.0,0.0,5938.0,20,20
+KXSAUDIPLTOTAL-26FEB19AASNAJ-3,Al-Najma at Al Ahli Saudi: Totals,True,True,33.0,0.03,11692.0,52,52
+KXDENSUPERLIGAGAME-26FEB21OBKFCC-TIE,Odense vs Copenhagen Winner?,True,True,1.0,0.02,23006.0,30,30
+KXWTACHALLENGERMATCH-26FEB23TOTSPI-TOT,Will Amarissa Kiara Toth win the Toth vs Spiteri : Qualification Final match?,False,False,,0.21,43695.0,14,14
+KXSCOTTISHPREMGAME-26FEB22CELHIB-HIB,Celtic vs Hibernian Winner?,True,True,0.0,0.02,65432.0,66,66
+KXWOMHOCKEYTOTAL-26FEB20USASVK-8,United States vs Slovakia: Total Goals,False,True,0.0,0.01,54244.0,15,15
+KXNBAPTS-26FEB21SACSAS-SASVWEMBANYAMA1-20,Victor Wembanyama: 20+ points,True,True,0.0,0.0,6208.0,23,23
+KXWTACHALLENGERMATCH-26FEB18ROSBAR-BAR,Will Mona Barthel win the Rosatello vs Barthel : Round Of 16 match?,True,False,,0.8,82869.0,14,14
+KXUFCFIGHT-26FEB21SMIHAR-HAR,"Will Josiah Harrell win the Smith vs Harrell professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.19,378776.0,117,117
+KXWOMHOCKEYTOTAL-26FEB22USACAN-4,United States vs Canada: Total Goals,False,True,0.0,0.01,118011.0,19,19
+KXNBAPTS-26FEB19DETNYK-DETCCUNNINGHAM2-25,Cade Cunningham: 25+ points,True,True,0.0,0.0,14566.0,41,41
+KXWTACHALLENGERMATCH-26FEB21STOGUO-STO,Will Mary Stoiana win the Stoiana vs Guo : Semifinal match?,False,False,,0.25,423818.0,15,15
+KXEPLBTTS-26FEB22TOTARS,Arsenal at Tottenham: Both Teams to Score,True,True,0.0,0.0,56455.0,222,222
+KXNBAPTS-26FEB19ATLPHI-ATLOOKONGWU17-15,Onyeka Okongwu: 15+ points,False,True,18.0,0.0,5726.0,20,20
+KXWTACHALLENGERMATCH-26FEB17LEELEA-LEA,Will Lea Ma win the Lee vs Ma : Round Of 32 match?,False,True,0.0,0.04,83105.0,8,8
+KXSAUDIPLTOTAL-26FEB23DAMAAS-2,Al Ahli Saudi at Damac: Totals,False,True,0.0,0.01,15159.0,53,53
+KXWTACHALLENGERMATCH-26FEB20LAZMAR-LAZ,Will Andrea Lazaro Garcia win the Lazaro Garcia vs Martynov : Quarterfinal match?,True,False,,0.7,63308.0,12,12
+KXWTACHALLENGERMATCH-26FEB18FREDAY-DAY,Will Kayla Day win the Frey vs Day : Round Of 16 match?,False,False,,0.24,356493.0,13,13
+KXWOMHOCKEY-26FEB17CZEDNK-CZE,Czech Republic vs Denmark Winner?,True,False,,0.68,240521.0,40,40
+KXALEAGUETOTAL-26FEB21SYDBRR-1,Brisbane at Sydney FC: Totals,False,True,0.0,0.01,13069.0,25,25
+KXWTACHALLENGERMATCH-26FEB22IBRHER-IBR,Will Alevtina Ibragimova win the Ibragimova vs Hercog : Qualification match?,True,False,,0.09,318335.0,13,13
+KXPGATOP20-THGI26-SSCH,Will Scottie Scheffler finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,385203.0,133,133
+KXDENSUPERLIGAGAME-26FEB20NJAVEJ-NJA,Nordsjaelland vs Vejle Winner?,False,True,62.0,0.0,255765.0,63,63
+KXNBAPTS-26FEB20CLECHA-CLEDMITCHELL45-30,Donovan Mitchell: 30+ points,True,True,0.0,0.0,6171.0,19,19
+KXNBAPTS-26FEB22BOSLAL-LALAREAVES15-20,Austin Reaves: 20+ points,False,True,0.0,0.0,9677.0,22,22
+KXBBLGAME-26FEB181230BRBROS-BRB,Brose Bamberg vs Rostock Seawolves Winner?,True,True,0.0,0.01,353407.0,39,39
+KXNBAPTS-26FEB20LACLAL-LALLDONCIC77-30,Luka Dončić: 30+ points,True,True,0.0,0.01,9542.0,21,21
+KXALEAGUETOTAL-26FEB21SYDBRR-3,Brisbane at Sydney FC: Totals,False,True,0.0,0.01,8059.0,44,44
+KXWTACHALLENGERMATCH-26FEB18MARDOD-DOD,Will Oceane Dodin win the Martynov vs Dodin : Round Of 16 match?,False,False,,0.74,274024.0,13,13
+KXWTACHALLENGERMATCH-26FEB18COSLEW-LEW,Will Astrid Lew Yan Foon win the Costoulas vs Lew Yan Foon : Round Of 16 match?,False,True,12.0,0.01,12435.0,13,13
+KXBBLGAME-26FEB171230SKYBAY-SKY,Fraport Skyliners vs Bayern Munich Winner?,False,True,0.0,0.01,400124.0,33,33
+KXWOMHOCKEY-26FEB18CANCZE-CZE,Canada vs Czech Republic Winner?,False,False,,0.06,989720.0,18,18
+KXPGATOP20-THGI26-CGOT,Will Chris Gotterup finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,29829.0,102,102
+KXNBA3D-26FEB20DENPOR-PORDAVDIJA8,Deni Avdija: Triple Double,False,True,0.0,0.0,9948.0,22,22
+KXPGATOP20-THGI26-PCOO,Will Pierceson Coody finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,39647.0,138,138
+KXWTACHALLENGERMATCH-26FEB21LAMSNI-LAM,Will Suzan Lamens win the Lamens vs Snigur : Semifinal match?,False,True,12.0,0.03,453355.0,13,13
+KXWTACHALLENGERMATCH-26FEB19KALHOS-HOS,Will Sakura Hosogi win the Kalieva vs Hosogi : Round Of 16 match?,False,True,0.0,0.02,23290.0,16,16
+KXUFCFIGHT-26FEB21COREDW-COR,"Will Nora Cornolle win the Cornolle vs Edwards professional MMA fight scheduled for Feb 21, 2026?",False,True,18.0,0.03,255711.0,178,178
+KXWOMHOCKEYTOTAL-26FEB22USACAN-6,United States vs Canada: Total Goals,False,True,0.0,0.04,12021.0,17,17
+KXPGATOP20-THGI26-PROD,Will Patrick Rodgers finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,19943.0,120,120
+KXWOMHOCKEYTOTAL-26FEB18CANCZE-6,Canada vs Czechia: Total Goals,True,True,0.0,0.01,83592.0,17,17
+KXNBAPTS-26FEB20LACLAL-LALLJAMES23-20,LeBron James: 20+ points,False,True,0.0,0.0,17775.0,20,20
+KXNBAPTS-26FEB21PHINOP-PHITMAXEY0-25,Tyrese Maxey: 25+ points,True,True,0.0,0.0,7147.0,19,19
+KXSCOTTISHPREMGAME-26FEB22LIVRFC-TIE,Livingston vs Rangers Winner?,True,True,0.0,0.02,111119.0,29,29
+KXWTACHALLENGERMATCH-26FEB19LEEVID-VID,Will Darja Vidmanova win the Lee vs Vidmanova : Round Of 16 match?,True,False,,0.81,34689.0,12,12
+KXPGATOP20-THGI26-MMCN,Will Maverick McNealy finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,22693.0,90,90
+KXBRASILEIROTOTAL-26FEB19CAPCOR-2,Corinthians at Paranaense: Totals,False,True,0.0,0.01,19490.0,48,48
+KXWTACHALLENGERMATCH-26FEB17TOMJAK-TOM,Will Viktoriya Tomova win the Tomova vs Jakupovic : Round Of 32 match?,True,False,,0.83,28471.0,12,12
+KXPGATOP20-THGI26-DMCC,Will Denny McCarthy finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,6497.0,109,109
+KXBRASILEIROTOTAL-26FEB19CAPCOR-3,Corinthians at Paranaense: Totals,False,True,0.0,0.01,6875.0,26,26
+KXNBAPTS-26FEB21PHINOP-PHITMAXEY0-30,Tyrese Maxey: 30+ points,False,True,0.0,0.0,5187.0,20,20
+KXWOMHOCKEYTOTAL-26FEB18CANCZE-7,Canada vs Czechia: Total Goals,False,True,0.0,0.01,33420.0,13,13
+KXSAUDIPLTOTAL-26FEB20AKHCQAD-2,Al Qadsiah at Al-Akhdoud: Totals,True,True,0.0,0.01,5741.0,27,27
+KXUFCFIGHT-26FEB21NJOMIR-NJO,"Will Chidi Njokuani win the Njokuani vs Leal Miranda professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.27,470438.0,191,191
+KXPGATOP20-COCITPB26-PROD,Cognizant Classic in The Palm Beaches: Will Patrick Rodgers finish top 20?,False,True,0.0,0.0,16117.0,1,1
+KXWOMHOCKEY-26FEB17CHEITA-ITA,Switzerland vs Italy Winner?,False,True,0.0,0.0,67224.0,33,33
+KXWTACHALLENGERMATCH-26FEB17WERKRA-KRA,Will Sinja Kraus win the Werner vs Kraus : Round Of 32 match?,True,False,,0.73,47974.0,12,12
+KXWTACHALLENGERMATCH-26FEB17SISPON-SIS,Will Anna Siskova win the Siskova vs Ponchet : Round Of 32 match?,True,False,,0.56,54627.0,15,15
+KXSCOTTISHPREMGAME-26FEB21DUUKIL-DUU,Dundee United vs Kilmarnock Winner?,False,True,54.0,0.0,10882.0,55,55
+KXWTACHALLENGERMATCH-26FEB23RISIBR-RIS,Will Mia Ristic win the Ristic vs Ibragimova : Qualification Final match?,False,True,0.0,0.04,106621.0,13,13
+KXSAUDIPLTOTAL-26FEB23DAMAAS-1,Al Ahli Saudi at Damac: Totals,False,True,0.0,0.01,12518.0,22,22
+KXWTACHALLENGERMATCH-26FEB17YUAKOE-KOE,Will Anouk Koevermans win the Yuan vs Koevermans : Round Of 32 match?,True,False,,0.27,180162.0,10,10
+KXALEAGUETOTAL-26FEB21SYDBRR-2,Brisbane at Sydney FC: Totals,False,True,0.0,0.01,16249.0,25,25
+KXNBA3D-26FEB22CLEOKC-CLEJHARDEN1,James Harden: Triple Double,False,True,0.0,0.0,7674.0,17,17
+KXNBAPTS-26FEB20DALMIN-MINAEDWARDS5-35,Anthony Edwards: 35+ points,True,True,0.0,0.0,16261.0,37,37
+KXWOMHOCKEY-26FEB18CANCZE-CAN,Canada vs Czech Republic Winner?,True,False,,0.28,1771553.0,18,18
+KXBBLGAME-26FEB181400HEICHE-CHE,MLP Academics Heidelberg vs Niners Chemnitz Winner?,True,True,0.0,0.01,300552.0,31,31
+KXWTACHALLENGERMATCH-26FEB17SORKOS-KOS,Will Teodora Kostovic win the Sorribes Tormo vs Kostovic : Round Of 32 match?,True,False,,0.05,770404.0,16,16
+KXWTACHALLENGERMATCH-26FEB18GOLCRA-GOL,Will Viktorija Golubic win the Golubic vs Crawley : Round Of 16 match?,True,False,,0.67,378709.0,15,15
+KXNBAPTS-26FEB20LACLAL-LALLDONCIC77-35,Luka Dončić: 35+ points,True,True,0.0,0.0,5195.0,21,21
+KXNBA3D-26FEB22BOSLAL-LALLDONCIC77,Luka Dončić: Triple Double,False,True,0.0,0.0,18376.0,25,25
+KXWTACHALLENGERMATCH-26FEB17JORKLI-KLI,Will Linda Klimovicova win the Jorge vs Klimovicova : Round Of 32 match?,False,False,,0.19,164252.0,12,12
+KXWTACHALLENGERMATCH-26FEB17BAIPAL-PAL,Will Barbora Palicova win the Bains vs Palicova : Round Of 32 match?,False,False,,0.3,75198.0,13,13
+KXNBAPTS-26FEB20DALMIN-MINAEDWARDS5-25,Anthony Edwards: 25+ points,True,True,0.0,0.0,6199.0,34,34
+KXWTACHALLENGERMATCH-26FEB17CHASHI-CHA,Will Alina Charaeva win the Charaeva vs Xu : Round Of 32 match?,True,False,,0.52,111969.0,8,8
+KXEPLBTTS-26FEB18WOLARS,Arsenal at Wolverhampton: Both Teams to Score,True,True,0.0,0.0,9586.0,185,185
+KXWOMHOCKEYTOTAL-26FEB22USACAN-3,United States vs Canada: Total Goals,False,True,0.0,0.01,125413.0,18,18
+KXUFCFIGHT-26FEB21REEPER-PER,"Will Michel Pereira win the Reese vs Pereira professional MMA fight scheduled for Feb 21, 2026?",True,False,,0.45,723434.0,220,220
+KXPGATOP20-THGI26-MFIT,Will Matt Fitzpatrick finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,17323.0,142,142
+KXWTACHALLENGERMATCH-26FEB17BRACRO-BRA,Will Cadence Brace win the Brace vs Cross : Round Of 32 match?,False,True,9.0,0.0,343178.0,10,10
+KXWTACHALLENGERMATCH-26FEB23COLZOL-ZOL,Will Anastasia Zolotareva win the Colmegna vs Zolotareva : Qualification Final match?,True,False,,0.49,282315.0,12,12
+KXPGATOP20-THGI26-RHIS,Will Ryo Hisatsune finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,78350.0,137,137
+KXWTACHALLENGERMATCH-26FEB17YANMLA-MLA,Will Kristina Mladenovic win the Yang vs Mladenovic : Round Of 32 match?,True,False,,0.45,1052871.0,14,14
+KXWTACHALLENGERMATCH-26FEB17BURTAN-TAN,Will Harmony Tan win the Burillo Escorihuela vs Tan : Round Of 32 match?,True,False,,0.74,18400.0,13,13
+KXSAUDIPLTOTAL-26FEB19AASNAJ-4,Al-Najma at Al Ahli Saudi: Totals,True,True,32.0,0.01,11915.0,44,44
+KXWTACHALLENGERMATCH-26FEB19HIBOSU-OSU,Will Whitney Osuigwe win the Hibino vs Osuigwe : Round Of 16 match?,False,True,0.0,0.04,67550.0,10,10
+KXUFCFIGHT-26FEB21BRASOR-BRA,"Will Ramiz Brahimaj win the Brahimaj vs Soriano professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.45,364278.0,108,108
+KXNBA2D-26FEB22PHIMIN-MINJMCDANIELS3,Jaden McDaniels: Double Double,False,True,0.0,0.0,10691.0,20,20
+KXALEAGUETOTAL-26FEB20ADUPER-3,Perth at Adelaide: Totals,True,False,,0.14,22635.0,36,36
+KXSCOTTISHPREMGAME-26FEB21ABEDUN-DUN,Aberdeen vs Dundee FC Winner?,True,True,13.0,0.03,21097.0,39,39
+KXNBAPTS-26FEB20LACLAL-LACJCOLLINS20-15,John Collins: 15+ points,False,True,0.0,0.0,11887.0,22,22
+KXWOMHOCKEYTOTAL-26FEB22USACAN-2,United States vs Canada: Total Goals,True,True,0.0,0.01,16810.0,18,18
+KXPGATOP20-THGI26-VHOV,Will Viktor Hovland finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,56805.0,124,124
+KXSAUDIPLTOTAL-26FEB19AKHRIY-2,Al-Riyadh at Al-Kholood: Totals,False,True,50.0,0.0,11005.0,51,51
+KXSCOTTISHPREMGAME-26FEB21MIRMOT-TIE,St. Mirren vs Motherwell Winner?,False,True,17.0,0.0,6263.0,49,49
+KXWTACHALLENGERMATCH-26FEB17HEWOSU-HEW,Will Dalayna Hewitt win the Hewitt vs Osuigwe : Round Of 32 match?,False,False,,0.13,39728.0,9,9
+KXPGATOP20-THGI26-JROS,Will Justin Rose finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,11014.0,101,101
+KXNBAPTS-26FEB20DALMIN-MINAEDWARDS5-30,Anthony Edwards: 30+ points,True,True,0.0,0.0,11195.0,37,37
+KXWTACHALLENGERMATCH-26FEB20KALGUO-KAL,Will Elvina Kalieva win the Kalieva vs Guo : Quarterfinal match?,False,False,,0.4,553179.0,14,14
+KXNBAPTS-26FEB19BKNCLE-CLEJHARDEN1-20,James Harden: 20+ points,False,True,0.0,0.0,7834.0,48,48
+KXWOMHOCKEY-26FEB20CANFIN-CAN,Canada vs Finland Winner?,True,True,0.0,0.01,2836574.0,42,42
+KXNBAPTS-26FEB19BOSGSW-GSWDGREEN23-15,Draymond Green: 15+ points,False,True,0.0,0.0,5613.0,39,39
+KXWTACHALLENGERMATCH-26FEB17LEELEA-LEE,Will Gabriela Lee win the Lee vs Ma : Round Of 32 match?,True,True,0.0,0.04,152983.0,8,8
+KXDENSUPERLIGAGAME-26FEB23BROSON-SON,Broendby vs Soenderjyske Winner?,False,True,42.0,0.0,75192.0,43,43
+KXSCOTTISHPREMGAME-26FEB21MIRMOT-MIR,St. Mirren vs Motherwell Winner?,False,True,18.0,0.0,8115.0,57,57
+KXPGATOP20-THGI26-SSTR,Will Sepp Straka finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,21612.0,132,132
+KXPGATOP20-THGI26-TFLE,Will Tommy Fleetwood finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.01,46636.0,140,140
+KXPGATOP20-THGI26-JPOS,Will J.T. Poston finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,10263.0,64,64
+KXPGATOP20-THGI26-SSTE,Will Sam Stevens finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,12676.0,121,121
+KXNBAPTS-26FEB21SACSAS-SACDDEROZAN10-15,DeMar DeRozan: 15+ points,True,False,,0.44,6318.0,22,22
+KXNBAPTS-26FEB21SACSAS-SASVWEMBANYAMA1-30,Victor Wembanyama: 30+ points,False,True,0.0,0.0,8064.0,23,23
+KXWTACHALLENGERMATCH-26FEB22SHYGLU-SHY,Will Iryna Shymanovich win the Shymanovich vs Glushkova : Qualification match?,True,False,,0.64,48259.0,14,14
+KXNBA2D-26FEB22BOSLAL-LALAREAVES15,Austin Reaves: Double Double,False,True,0.0,0.0,7959.0,24,24
+KXNBA3D-26FEB22NYKCHI-CHIJGIDDEY3,Josh Giddey: Triple Double,False,True,0.0,0.0,12180.0,20,20
+KXWTACHALLENGERMATCH-26FEB22IBRHER-HER,Will Polona Hercog win the Ibragimova vs Hercog : Qualification match?,False,False,,0.47,128593.0,14,14
+KXATPSETWINNER-26FEB20FRIPAU-2-FRI,Will Taylor Fritz win set 2 in the Taylor Fritz vs Tommy Paul match,False,True,0.0,0.0,6123.0,9,9
+KXPGATOP20-THGI26-ABHA,Will Akshay Bhatia finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,66565.0,149,149
+KXWTACHALLENGERMATCH-26FEB20GOLQUE-GOL,Will Viktorija Golubic win the Golubic vs Quevedo : Quarterfinal match?,True,False,,0.56,331751.0,14,14
+KXWTACHALLENGERMATCH-26FEB19JOKGUO-JOK,Will Katarina Jokic win the Jokic vs Guo : Round Of 16 match?,False,True,1.0,0.04,28750.0,11,11
+KXUFCFIGHT-26FEB21REEPER-REE,"Will Zach Reese win the Reese vs Pereira professional MMA fight scheduled for Feb 21, 2026?",False,True,236.0,0.0,713945.0,237,237
+KXNBA2D-26FEB22PHIMIN-MINJRANDLE30,Julius Randle: Double Double,False,True,19.0,0.0,6593.0,21,21
+KXNBA3D-26FEB21SACSAS-SASVWEMBANYAMA1,Victor Wembanyama: Triple Double,False,True,0.0,0.0,8467.0,19,19
+KXWTACHALLENGERMATCH-26FEB20SEBSTO-SEB,Will Katherine Sebov win the Sebov vs Stoiana : Quarterfinal match?,False,True,14.0,0.02,139924.0,15,15
+KXNBAPTS-26FEB21SACSAS-SASVWEMBANYAMA1-25,Victor Wembanyama: 25+ points,True,True,0.0,0.0,33355.0,21,21
+KXNBA3D-26FEB22BOSLAL-LALLJAMES23,LeBron James: Triple Double,False,True,0.0,0.0,17930.0,23,23
+KXWTACHALLENGERMATCH-26FEB23COLZOL-COL,Will Martina Colmegna win the Colmegna vs Zolotareva : Qualification Final match?,False,False,,0.21,93120.0,12,12
+KXKBLGAME-26FEB170230KNITHU-KNI,Seoul SK Knights vs Samsung Thunders Winner?,True,True,0.0,0.02,291827.0,35,35
+KXWTACHALLENGERMATCH-26FEB18BOLLEE-LEE,Will Carol Young Suh Lee win the Bolsova vs Lee : Round Of 16 match?,True,False,,0.65,189885.0,14,14
+KXWTACHALLENGERMATCH-26FEB17TIKLIA-TIK,Will Anastasia Tikhonova win the Tikhonova vs Liang : Round Of 32 match?,False,True,2.0,0.0,30151.0,13,13
+KXNBAPTS-26FEB19DETNYK-DETCCUNNINGHAM2-20,Cade Cunningham: 20+ points,True,True,0.0,0.0,11163.0,42,42
+KXUFCFIGHT-26FEB21STRHER-HER,"Will Anthony Hernandez win the Strickland vs Hernandez professional MMA fight scheduled for Feb 21, 2026?",False,False,,0.62,1787254.0,268,268
+KXPGATOP20-THGI26-THOG,Will Tom Hoge finish top 20 (including ties) in The Genesis Invitational golf tournament?,False,True,0.0,0.0,20298.0,88,88
+KXWTACHALLENGERMATCH-26FEB17COLDAY-DAY,Will Kayla Day win the Coleman vs Day : Round Of 32 match?,True,False,,0.93,72667.0,12,12
+KXBBLGAME-26FEB181230BRBROS-ROS,Brose Bamberg vs Rostock Seawolves Winner?,False,True,0.0,0.0,382351.0,57,57
+KXWOMHOCKEY-26FEB21SVKFIN-FIN,Slovakia vs Finland Winner?,True,True,0.0,0.02,328382.0,23,23
+KXALEAGUETOTAL-26FEB21SYDBRR-4,Brisbane at Sydney FC: Totals,False,True,0.0,0.01,9734.0,22,22
+KXWTACHALLENGERMATCH-26FEB19LAZLEO-LEO,Will Manon Leonard win the Lazaro Garcia vs Leonard : Round Of 16 match?,False,True,0.0,0.04,373187.0,14,14
+KXWTACHALLENGERMATCH-26FEB17DODKOR-DOD,Will Oceane Dodin win the Dodin vs Korpatsch : Round Of 32 match?,True,False,,0.3,99043.0,15,15
+KXPGATOP20-THGI26-JKNA,Will Jake Knapp finish top 20 (including ties) in The Genesis Invitational golf tournament?,True,True,0.0,0.0,53301.0,140,140
